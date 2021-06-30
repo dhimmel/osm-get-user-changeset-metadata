@@ -1,3 +1,7 @@
+# Find all OpenStreetMap edits by [@dhimmel](https://www.openstreetmap.org/user/dhimmel) of the Long Trail
+
+See [long_trail_changesets.ipynb](long_trail_changesets.ipynb) and https://blog.dhimmel.com/long-trail-maps/.
+
 # osm-get-user-changeset-metadata
 
 This script will download the changeset metadata from all changesets made by a named OpenStreetMap user.

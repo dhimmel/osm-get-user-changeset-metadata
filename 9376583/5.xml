@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<changeset id="66746547" created_at="2019-01-29T18:07:21Z" open="false" comments_count="0" changes_count="28" closed_at="2019-01-29T18:07:22Z" min_lat="4.4972251" min_lon="-7.9350089" max_lat="4.4978121" max_lon="-7.9341035" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery"/>
+  <tag k="changesets_count" v="7"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.13.1"/>
+  <tag k="comment" v="Garraway Liberia: move some buildings"/>
+</changeset>
+<changeset id="66548972" created_at="2019-01-22T19:47:47Z" open="false" comments_count="0" changes_count="2" closed_at="2019-01-22T19:47:48Z" min_lat="43.7167302" min_lon="-72.2664343" max_lat="43.7172270" max_lon="-72.2658196" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="6"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.12.2"/>
+  <tag k="comment" v="Rip Road: add street numbers"/>
+</changeset>
+<changeset id="66542853" created_at="2019-01-22T16:21:11Z" open="false" comments_count="0" changes_count="155" closed_at="2019-01-22T16:21:13Z" min_lat="36.8841215" min_lon="-118.3965396" max_lat="36.8910001" max_lon="-118.3734870" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="5"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.12.2"/>
+  <tag k="comment" v="Add water bodies along Sawmill pass"/>
+</changeset>
+<changeset id="66524337" created_at="2019-01-22T02:56:14Z" open="false" comments_count="0" changes_count="137" closed_at="2019-01-22T02:56:16Z" min_lat="36.8845619" min_lon="-118.3485764" max_lat="36.8877358" max_lon="-118.3452739" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="4"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="source" v="aerial imagery"/>
+  <tag k="hashtags" v="#hiking"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.12.2"/>
+  <tag k="comment" v="Add Sawmill Lake in the High Sierra"/>
+</changeset>
+<changeset id="66524017" created_at="2019-01-22T02:34:45Z" open="false" comments_count="0" changes_count="135" closed_at="2019-01-22T02:34:48Z" min_lat="36.8823326" min_lon="-118.3877507" max_lat="36.8886286" max_lon="-118.3791284" uid="9376583" user="dhimmel">
+  <tag k="hashtags" v="#hiking"/>
+  <tag k="source" v="aerial imagery;local knowledge"/>
+  <tag k="review_requested" v="yes"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="3"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.12.2"/>
+  <tag k="comment" v="Add Woods Lake in the High Sierra"/>
+</changeset>
+<changeset id="66522610" created_at="2019-01-22T00:44:50Z" open="false" comments_count="0" changes_count="9" closed_at="2019-01-22T00:44:50Z" min_lat="43.7167351" min_lon="-72.2648534" max_lat="43.7169072" max_lon="-72.2646596" uid="9376583" user="dhimmel">
+  <tag k="review_requested" v="yes"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="2"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.12.2"/>
+  <tag k="comment" v="Add house for 11 Hemlock Rd, Hanover NH"/>
+</changeset>
+<changeset id="66522566" created_at="2019-01-22T00:40:26Z" open="false" comments_count="0" changes_count="9" closed_at="2019-01-22T00:40:27Z" min_lat="43.7623187" min_lon="-72.2120576" max_lat="43.7625134" max_lon="-72.2117644" uid="9376583" user="dhimmel">
+  <tag k="review_requested" v="yes"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="1"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.12.2"/>
+  <tag k="comment" v="Add house for 8 Grant Rd, Hanover NH"/>
+</changeset>
+</osm>

@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<changeset id="97920492" created_at="2021-01-21T17:43:31Z" open="false" comments_count="0" changes_count="1" closed_at="2021-01-21T17:43:32Z" min_lat="40.4352613" min_lon="-75.9654335" max_lat="40.4422023" max_lon="-75.9586493" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="307"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="add section to SRT relation. used dirty workaround in https://github.com/openstreetmap/iD/issues/3487#issuecomment-356636926"/>
+</changeset>
+<changeset id="97867606" created_at="2021-01-21T02:33:25Z" open="false" comments_count="0" changes_count="346" closed_at="2021-01-21T02:33:26Z" min_lat="30.8776713" min_lon="-89.2540481" max_lat="31.1832598" max_lon="-88.9736388" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="306"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="more black creek trail &amp; area edits"/>
+</changeset>
+<changeset id="97865727" created_at="2021-01-21T00:45:28Z" open="false" comments_count="0" changes_count="121" closed_at="2021-01-21T00:45:29Z" min_lat="30.8776713" min_lon="-89.2540481" max_lat="31.1832598" max_lon="-88.9736388" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="305"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Extend black creek trail MS"/>
+</changeset>
+<changeset id="97519867" created_at="2021-01-14T23:44:06Z" open="false" comments_count="0" changes_count="94" closed_at="2021-01-14T23:44:07Z" min_lat="43.6475890" min_lon="-72.2410363" max_lat="43.6914020" max_lon="-72.2193550" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="304"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Signal Hill Touch Ups"/>
+</changeset>
+<changeset id="97232025" created_at="2021-01-09T23:17:48Z" open="false" comments_count="0" changes_count="48" closed_at="2021-01-09T23:17:50Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0125490" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="303"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Maxar Premium Imagery (Beta);USGS Topographic Maps"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Smarts mountain amenities"/>
+</changeset>
+<changeset id="96851447" created_at="2021-01-03T15:21:31Z" open="false" comments_count="0" changes_count="29" closed_at="2021-01-03T15:21:31Z" min_lat="43.7521478" min_lon="-72.2245316" max_lat="43.7526788" max_lon="-72.2224720" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="302"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="10 river rd driveway"/>
+</changeset>
+<changeset id="96850140" created_at="2021-01-03T14:51:44Z" open="false" comments_count="0" changes_count="28" closed_at="2021-01-03T14:51:45Z" min_lat="43.7415830" min_lon="-72.2384622" max_lat="43.7596490" max_lon="-72.2026930" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="301"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Lower Slade Brook connector"/>
+</changeset>
+<changeset id="96778622" created_at="2021-01-01T16:23:41Z" open="false" comments_count="0" changes_count="97" closed_at="2021-01-01T16:23:43Z" min_lat="43.7643558" min_lon="-72.2499673" max_lat="43.7802230" max_lon="-72.2356156" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="300"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file;Mapbox Satellite;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Campbell Flats &amp; Sargent tracks"/>
+</changeset>
+<changeset id="96472167" created_at="2020-12-27T04:53:00Z" open="false" comments_count="0" changes_count="177" closed_at="2020-12-27T04:53:01Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="299"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Dartmouth Skiway Trails"/>
+</changeset>
+<changeset id="96471846" created_at="2020-12-27T04:17:06Z" open="false" comments_count="0" changes_count="5" closed_at="2020-12-27T04:17:07Z" min_lat="43.7836111" min_lon="-72.1040360" max_lat="43.7837275" max_lon="-72.1038744" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="298"/>
+  <tag k="imagery_used" v="Maxar Standard Imagery (Beta);.gpx data file;Mapbox Satellite;Esri World Imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Nunnemacher Cabin"/>
+</changeset>
+<changeset id="95769663" created_at="2020-12-13T20:14:27Z" open="false" comments_count="0" changes_count="136" closed_at="2020-12-13T20:14:28Z" min_lat="43.8201733" min_lon="-72.2331074" max_lat="43.8434892" max_lon="-72.2055570" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="297"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Houghton Hill &amp; Mimi Trail, Thetford"/>
+</changeset>
+<changeset id="95742118" created_at="2020-12-13T01:50:27Z" open="false" comments_count="0" changes_count="57" closed_at="2020-12-13T01:50:28Z" min_lat="43.7107690" min_lon="-72.2651630" max_lat="43.7188970" max_lon="-72.2501730" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="296"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Balch hill trail alignment &amp; segment"/>
+</changeset>
+<changeset id="95124998" created_at="2020-12-02T03:25:30Z" open="false" comments_count="0" changes_count="27" closed_at="2020-12-02T03:25:31Z" min_lat="43.5983996" min_lon="-72.1446980" max_lat="43.6102300" max_lon="-72.1338390" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="295"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Mapbox Satellite"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Smith Pond Shaker Forest tweaks"/>
+</changeset>
+<changeset id="95009722" created_at="2020-11-30T02:21:07Z" open="false" comments_count="0" changes_count="352" closed_at="2020-11-30T02:21:08Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-71.9982304" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="294"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Smarts mountain trails: fix bad AT mislabeling"/>
+</changeset>
+<changeset id="95008260" created_at="2020-11-30T01:39:52Z" open="false" comments_count="0" changes_count="336" closed_at="2020-11-30T01:39:54Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="293"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_Run/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Lyme: Pout &amp; Trout pond areas"/>
+</changeset>
+<changeset id="94862154" created_at="2020-11-26T22:43:41Z" open="false" comments_count="0" changes_count="35" closed_at="2020-11-26T22:43:41Z" min_lat="43.8634139" min_lon="-72.1861862" max_lat="43.9391093" max_lon="-72.1305451" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="292"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="extend power line"/>
+</changeset>
+<changeset id="94862029" created_at="2020-11-26T22:38:55Z" open="false" comments_count="0" changes_count="3" closed_at="2020-11-26T22:38:56Z" min_lat="43.9190440" min_lon="-72.1469040" max_lat="43.9207160" max_lon="-72.1439110" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="291"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_Run/{x}/{y}/{z} );TIGER Roads 2019"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="remove non-existent road Morey Mountain"/>
+</changeset>
+<changeset id="94861829" created_at="2020-11-26T22:31:10Z" open="false" comments_count="0" changes_count="208" closed_at="2020-11-26T22:31:11Z" min_lat="43.8951330" min_lon="-72.1621146" max_lat="43.9391093" max_lon="-72.1305451" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="290"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_Run/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Morey Mountain trail alignment &amp; power line https://scholarworks.uvm.edu/rsmpp/22/"/>
+</changeset>
+<changeset id="94855950" created_at="2020-11-26T18:42:08Z" open="false" comments_count="0" changes_count="149" closed_at="2020-11-26T18:42:09Z" min_lat="43.9059160" min_lon="-72.1598400" max_lat="43.9370340" max_lon="-72.1360760" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="289"/>
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Custom (https://anygis.ru/api/v1/Tracks_Strava_All_HD/{1}/{2}/{0} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Morey Mountain &amp; Palisades Trail (needs refinement with Strava heatmap)"/>
+</changeset>
+<changeset id="94166486" created_at="2020-11-15T22:09:31Z" open="false" comments_count="0" changes_count="64" closed_at="2020-11-15T22:09:32Z" min_lat="40.0748208" min_lon="-75.0637006" max_lat="40.0856075" max_lon="-75.0550863" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="288"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Pennypack trail alignment"/>
+</changeset>
+<changeset id="94116236" created_at="2020-11-14T18:12:06Z" open="false" comments_count="0" changes_count="215" closed_at="2020-11-14T18:12:07Z" min_lat="39.8731598" min_lon="-75.3037657" max_lat="39.8920293" max_lon="-75.2524543" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="287"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="5"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="5"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="John Heinz Wildlife Refuge trails"/>
+</changeset>
+<changeset id="92173586" created_at="2020-10-08T11:51:23Z" open="false" comments_count="0" changes_count="1" closed_at="2020-10-08T11:51:25Z" min_lat="43.8813037" min_lon="-72.2627090" max_lat="43.9305980" max_lon="-72.0234885" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://rivendelltrail.squarespace.com/maps"/>
+  <tag k="created_by" v="JOSM/1.5 (17013 en)"/>
+  <tag k="comment" v="Cross Rivendell Trail: sort relation and add tags"/>
+</changeset>
+<changeset id="92111912" created_at="2020-10-07T12:14:46Z" open="false" comments_count="0" changes_count="1" closed_at="2020-10-07T12:14:48Z" min_lat="42.7438189" min_lon="-73.1555346" max_lat="45.0086734" max_lon="-72.4879330" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="changesets_count" v="285"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: relation tags as per https://wiki.openstreetmap.org/w/index.php?title=United_States/Long_distance_trails&amp;oldid=1996282"/>
+</changeset>
+<changeset id="92075055" created_at="2020-10-07T02:12:27Z" open="false" comments_count="0" changes_count="1" closed_at="2020-10-07T02:12:28Z" uid="9376583" user="dhimmel">
+  <tag k="source" v="JOSM relations editor sort"/>
+  <tag k="created_by" v="JOSM/1.5 (17013 en)"/>
+  <tag k="comment" v="Long Trail: reorder route relation, NoBo sequential"/>
+</changeset>
+<changeset id="92074907" created_at="2020-10-07T02:03:20Z" open="false" comments_count="0" changes_count="244" closed_at="2020-10-07T02:03:21Z" min_lat="43.1394410" min_lon="-73.0145812" max_lat="43.2280681" max_lon="-72.8966010" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="283"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Kendall Farm Road Alignment"/>
+</changeset>
+<changeset id="92074705" created_at="2020-10-07T01:50:04Z" open="false" comments_count="0" changes_count="247" closed_at="2020-10-07T01:50:06Z" min_lat="43.1032121" min_lon="-73.0083012" max_lat="43.2586990" max_lon="-72.8978450" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="282"/>
+  <tag k="resolved:crossing_ways:highway-highway" v="2"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImageryClarity;USDA-NAIP;Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: VT11, Corridor 7, fix overlapping ways"/>
+</changeset>
+<changeset id="91949039" created_at="2020-10-05T00:02:21Z" open="false" comments_count="0" changes_count="18" closed_at="2020-10-05T00:02:22Z" min_lat="43.7731178" min_lon="-72.1775810" max_lat="43.8037730" max_lon="-72.1404875" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="changesets_count" v="281"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="East Street side trail access private"/>
+</changeset>
+<changeset id="91948690" created_at="2020-10-04T23:34:31Z" open="false" comments_count="0" changes_count="219" closed_at="2020-10-04T23:34:32Z" min_lat="43.7978090" min_lon="-72.1194670" max_lat="43.8416783" max_lon="-72.0629426" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="280"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity;EsriWorldImagery;Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Pout Pond Lyme NH"/>
+</changeset>
+<changeset id="91903736" created_at="2020-10-03T14:07:25Z" open="false" comments_count="0" changes_count="1" closed_at="2020-10-03T14:07:26Z" min_lat="43.7703890" min_lon="-72.1728751" max_lat="43.7776412" max_lon="-72.1597077" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="279"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Royal C. Nemiah Forest website"/>
+</changeset>
+<changeset id="91903165" created_at="2020-10-03T13:51:02Z" open="false" comments_count="0" changes_count="34" closed_at="2020-10-03T13:51:02Z" min_lat="43.8116550" min_lon="-72.1862400" max_lat="43.8137991" max_lon="-72.1846467" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="278"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;Bing;USDA-NAIP;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Wind Farm"/>
+</changeset>
+<changeset id="91902863" created_at="2020-10-03T13:42:00Z" open="false" comments_count="0" changes_count="114" closed_at="2020-10-03T13:42:00Z" min_lat="43.7731178" min_lon="-72.1623676" max_lat="43.8127195" max_lon="-72.1388114" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="277"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Lyme track road tweaks and Highland Cemetery"/>
+</changeset>
+<changeset id="91901906" created_at="2020-10-03T13:14:01Z" open="false" comments_count="0" changes_count="34" closed_at="2020-10-03T13:14:02Z" min_lat="43.7606550" min_lon="-72.1727353" max_lat="43.8037730" max_lon="-72.1463710" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="276"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Goodell Lane Lyme"/>
+</changeset>
+<changeset id="91887676" created_at="2020-10-03T00:32:20Z" open="false" comments_count="0" changes_count="150" closed_at="2020-10-03T00:32:22Z" min_lat="43.7552574" min_lon="-72.2149039" max_lat="43.7583330" max_lon="-72.2071780" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="275"/>
+  <tag k="resolved:crossing_ways:building-highway" v="2"/>
+  <tag k="resolved:short_road" v="1"/>
+  <tag k="resolved:mismatched_geometry:vertex_as_point" v="1"/>
+  <tag k="resolved:outdated_tags:noncanonical_brand" v="1"/>
+  <tag k="warnings:short_road" v="1"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;EsriWorldImagery;Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://mapwith.ai/rapid"/>
+  <tag k="created_by" v="RapiD 1.0.12"/>
+  <tag k="comment" v="Pipers / Heather Lane houses using RapiD"/>
+</changeset>
+<changeset id="91793315" created_at="2020-10-01T02:11:55Z" open="false" comments_count="0" changes_count="803" closed_at="2020-10-01T02:11:57Z" min_lat="43.5215347" min_lon="-72.9643000" max_lat="43.8255310" max_lon="-72.8172358" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="274"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="3"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="4"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Bloodroot Area"/>
+</changeset>
+<changeset id="91792552" created_at="2020-10-01T01:21:24Z" open="false" comments_count="0" changes_count="261" closed_at="2020-10-01T01:21:26Z" min_lat="43.3013350" min_lon="-72.9790095" max_lat="43.5572210" max_lon="-72.8526400" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="273"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file;EsriWorldImageryClarity;Bing;EsriWorldImagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Little Rock Pond"/>
+</changeset>
+<changeset id="91734991" created_at="2020-09-30T02:20:20Z" open="false" comments_count="0" changes_count="50" closed_at="2020-09-30T02:20:21Z" min_lat="42.7438189" min_lon="-73.1555346" max_lat="43.0001120" max_lon="-73.0560919" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="272"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.kml data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Melville Nauheim Shelter"/>
+</changeset>
+<changeset id="91733800" created_at="2020-09-30T01:04:59Z" open="false" comments_count="0" changes_count="82" closed_at="2020-09-30T01:05:00Z" min_lat="42.8987982" min_lon="-73.0761027" max_lat="42.9253443" max_lon="-73.0630988" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="271"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Little Pond Road"/>
+</changeset>
+<changeset id="91733492" created_at="2020-09-30T00:33:37Z" open="false" comments_count="0" changes_count="76" closed_at="2020-09-30T00:33:38Z" min_lat="42.7438189" min_lon="-73.1555346" max_lat="43.0611802" max_lon="-72.9681508" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="270"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: alignment tweaks nearGlastenbury"/>
+</changeset>
+<changeset id="91733374" created_at="2020-09-30T00:21:53Z" open="false" comments_count="0" changes_count="95" closed_at="2020-09-30T00:21:54Z" min_lat="43.0001059" min_lon="-73.0643881" max_lat="43.0611802" max_lon="-72.9681508" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="269"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file;EsriWorldImagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Kid Gore Shelter"/>
+</changeset>
+<changeset id="91733004" created_at="2020-09-29T23:53:44Z" open="false" comments_count="0" changes_count="300" closed_at="2020-09-29T23:53:45Z" min_lat="43.0001059" min_lon="-73.0643881" max_lat="43.1032121" max_lon="-72.9213191" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="268"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Stratton Mountain"/>
+</changeset>
+<changeset id="91708957" created_at="2020-09-29T12:46:13Z" open="false" comments_count="0" changes_count="8" closed_at="2020-09-29T12:46:15Z" min_lat="44.5271099" min_lon="-72.8176467" max_lat="44.5535871" max_lon="-72.7811625" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="267"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="2"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Barnes Camp Bridge"/>
+</changeset>
+<changeset id="91708726" created_at="2020-09-29T12:41:43Z" open="false" comments_count="0" changes_count="20" closed_at="2020-09-29T12:41:43Z" min_lat="44.5271099" min_lon="-72.8176467" max_lat="44.5535871" max_lon="-72.7811625" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="266"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.kml data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Barnes Camp Visitor Center"/>
+</changeset>
+<changeset id="91671893" created_at="2020-09-29T02:02:02Z" open="false" comments_count="0" changes_count="344" closed_at="2020-09-29T02:02:03Z" min_lat="44.6516448" min_lon="-72.7287879" max_lat="44.7747890" max_lon="-72.5532675" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="265"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="4"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="4"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Belvidere Road"/>
+</changeset>
+<changeset id="91671479" created_at="2020-09-29T01:41:02Z" open="false" comments_count="0" changes_count="124" closed_at="2020-09-29T01:41:03Z" min_lat="44.4850158" min_lon="-72.8463242" max_lat="44.5259637" max_lon="-72.8066148" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="264"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="4"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Mansfield Nose"/>
+</changeset>
+<changeset id="91671324" created_at="2020-09-29T01:30:26Z" open="false" comments_count="0" changes_count="134" closed_at="2020-09-29T01:30:27Z" min_lat="44.4386574" min_lon="-72.8435700" max_lat="44.4871760" max_lon="-72.8265646" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="263"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.kml data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Puffer Shelter"/>
+</changeset>
+<changeset id="91671117" created_at="2020-09-29T01:17:08Z" open="false" comments_count="0" changes_count="763" closed_at="2020-09-29T01:17:10Z" min_lat="44.2627795" min_lon="-72.9335040" max_lat="44.4427865" max_lon="-72.8337925" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="262"/>
+  <tag k="resolved:missing_tag:descriptive" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Camel's Hump to Bolton Mountain &amp; Old Long Trail"/>
+</changeset>
+<changeset id="91669993" created_at="2020-09-29T00:00:42Z" open="false" comments_count="0" changes_count="73" closed_at="2020-09-29T00:00:44Z" min_lat="44.1920486" min_lon="-72.9359858" max_lat="44.2641280" max_lon="-72.8737110" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="261"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: near Cowles Cove Shelter"/>
+</changeset>
+<changeset id="91669893" created_at="2020-09-28T23:54:14Z" open="false" comments_count="0" changes_count="150" closed_at="2020-09-28T23:54:16Z" min_lat="43.7852640" min_lon="-72.1846891" max_lat="43.8107181" max_lon="-72.1351250" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="260"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImageryClarity;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Lyme Trails &amp; Gilbert Cemetery"/>
+</changeset>
+<changeset id="91602726" created_at="2020-09-28T01:53:48Z" open="false" comments_count="0" changes_count="2" closed_at="2020-09-28T01:53:48Z" min_lat="42.9775968" min_lon="-73.0717810" max_lat="42.9776485" max_lon="-73.0716865" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="259"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Glastenbury Fire Tower"/>
+</changeset>
+<changeset id="91602530" created_at="2020-09-28T01:45:08Z" open="false" comments_count="0" changes_count="30" closed_at="2020-09-28T01:45:08Z" min_lat="42.8007465" min_lon="-73.1172542" max_lat="42.8020147" max_lon="-73.1154889" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="258"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="beaver pond"/>
+</changeset>
+<changeset id="91602478" created_at="2020-09-28T01:41:47Z" open="false" comments_count="0" changes_count="472" closed_at="2020-09-28T01:41:48Z" min_lat="42.7438189" min_lon="-73.1817610" max_lat="43.0001120" max_lon="-73.0560919" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="257"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: southern terminus to Harmon Hill"/>
+</changeset>
+<changeset id="91601992" created_at="2020-09-28T01:20:04Z" open="false" comments_count="0" changes_count="260" closed_at="2020-09-28T01:20:05Z" min_lat="42.7017664" min_lon="-73.1862720" max_lat="42.7438189" max_lon="-73.1486669" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="256"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Appalachian Trail: Northern Massachusetts"/>
+</changeset>
+<changeset id="91601694" created_at="2020-09-28T01:05:42Z" open="false" comments_count="0" changes_count="393" closed_at="2020-09-28T01:05:43Z" min_lat="43.0001059" min_lon="-73.0643881" max_lat="43.2076799" max_lon="-72.9612946" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="255"/>
+  <tag k="resolved:outdated_tags:deprecated_tags" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: stratton pond"/>
+</changeset>
+<changeset id="91600526" created_at="2020-09-28T00:07:00Z" open="false" comments_count="0" changes_count="131" closed_at="2020-09-28T00:07:00Z" min_lat="43.1031449" min_lon="-73.0112545" max_lat="43.2076799" max_lon="-72.9640790" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="254"/>
+  <tag k="resolved:outdated_tags:deprecated_tags" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: prospect rocks"/>
+</changeset>
+<changeset id="91598901" created_at="2020-09-27T22:07:43Z" open="false" comments_count="0" changes_count="73" closed_at="2020-09-27T22:07:44Z" min_lat="43.2279098" min_lon="-72.9652738" max_lat="43.3632523" max_lon="-72.9353344" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="253"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: mad tom notch to bromley"/>
+</changeset>
+<changeset id="91598849" created_at="2020-09-27T22:04:03Z" open="false" comments_count="0" changes_count="664" closed_at="2020-09-27T22:04:05Z" min_lat="43.2279098" min_lon="-72.9868580" max_lat="43.5215700" max_lon="-72.8779046" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="252"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Griffith Lake area"/>
+</changeset>
+<changeset id="91598205" created_at="2020-09-27T21:24:53Z" open="false" comments_count="0" changes_count="1030" closed_at="2020-09-27T21:24:56Z" min_lat="43.3631194" min_lon="-72.9624281" max_lat="43.6749903" max_lon="-72.7999020" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="251"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Maine Junction to Mill River"/>
+</changeset>
+<changeset id="91594936" created_at="2020-09-27T19:16:35Z" open="false" comments_count="0" changes_count="477" closed_at="2020-09-27T19:16:37Z" min_lat="44.0947750" min_lon="-72.9393670" max_lat="44.2627795" max_lon="-72.8971118" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="250"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Appalachian Gap"/>
+</changeset>
+<changeset id="91592239" created_at="2020-09-27T17:43:22Z" open="false" comments_count="0" changes_count="299" closed_at="2020-09-27T17:43:23Z" min_lat="44.5271099" min_lon="-72.8176467" max_lat="44.5535871" max_lon="-72.7811625" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="249"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="3"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="4"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Smugglers Notch to Mansfield"/>
+</changeset>
+<changeset id="91591421" created_at="2020-09-27T17:14:39Z" open="false" comments_count="0" changes_count="109" closed_at="2020-09-27T17:14:40Z" min_lat="44.5380260" min_lon="-72.7940937" max_lat="44.5569163" max_lon="-72.7722951" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="248"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="2"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="2"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail:  Elephant’s Head Spur"/>
+</changeset>
+<changeset id="91591083" created_at="2020-09-27T17:02:55Z" open="false" comments_count="0" changes_count="209" closed_at="2020-09-27T17:02:56Z" min_lat="44.5380260" min_lon="-72.7942254" max_lat="44.5799590" max_lon="-72.7368705" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="247"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Madonna Peak and Sterling Pond"/>
+</changeset>
+<changeset id="91589801" created_at="2020-09-27T16:25:25Z" open="false" comments_count="0" changes_count="58" closed_at="2020-09-27T16:25:26Z" min_lat="44.6516448" min_lon="-72.7547850" max_lat="44.7079060" max_lon="-72.6829450" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="246"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity;EsriWorldImagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Plot Road crossing"/>
+</changeset>
+<changeset id="91589327" created_at="2020-09-27T16:10:29Z" open="false" comments_count="0" changes_count="228" closed_at="2020-09-27T16:10:31Z" min_lat="44.6426578" min_lon="-72.7711450" max_lat="44.6831340" max_lon="-72.7096260" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="245"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImageryClarity;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Plot Road to Route 15 in Johnson"/>
+</changeset>
+<changeset id="91562394" created_at="2020-09-26T19:49:14Z" open="false" comments_count="0" changes_count="46" closed_at="2020-09-26T19:49:15Z" min_lat="44.6418852" min_lon="-72.7178467" max_lat="44.6435470" max_lon="-72.7042741" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="244"/>
+  <tag k="imagery_used" v="EsriWorldImagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Johnson businesses"/>
+</changeset>
+<changeset id="91559451" created_at="2020-09-26T17:36:14Z" open="false" comments_count="0" changes_count="265" closed_at="2020-09-26T17:36:15Z" min_lat="44.7732190" min_lon="-72.5624130" max_lat="44.8414600" max_lon="-72.5193579" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="243"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="2"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Maxar-Premium;EsriWorldImagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: Belvidere Fire Tower &amp; side trails"/>
+</changeset>
+<changeset id="91552347" created_at="2020-09-26T13:48:49Z" open="false" comments_count="0" changes_count="2" closed_at="2020-09-26T13:48:50Z" min_lat="44.8495020" min_lon="-72.5484444" max_lat="44.9617976" max_lon="-72.4314479" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="242"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Catamount XC Trail near jay pass: tags"/>
+</changeset>
+<changeset id="91552168" created_at="2020-09-26T13:42:32Z" open="false" comments_count="0" changes_count="43" closed_at="2020-09-26T13:42:33Z" min_lat="44.8414600" min_lon="-72.5405814" max_lat="44.9870717" max_lon="-72.4964784" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="241"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Mapbox"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: jay loop &amp; jay camp"/>
+</changeset>
+<changeset id="91551975" created_at="2020-09-26T13:37:07Z" open="false" comments_count="0" changes_count="244" closed_at="2020-09-26T13:37:08Z" min_lat="44.8414600" min_lon="-72.5407500" max_lat="44.9921050" max_lon="-72.4921250" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="240"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: canada to jay peak"/>
+</changeset>
+<changeset id="91547642" created_at="2020-09-26T11:16:27Z" open="false" comments_count="0" changes_count="74" closed_at="2020-09-26T11:16:28Z" min_lat="44.9987500" min_lon="-72.5538847" max_lat="45.0450392" max_lon="-72.4139429" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="239"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImagery;EsriWorldImageryClarity;Maxar-Standard"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.5"/>
+  <tag k="comment" v="Long Trail: journey's end"/>
+</changeset>
+<changeset id="90610518" created_at="2020-09-09T01:29:00Z" open="false" comments_count="0" changes_count="734" closed_at="2020-09-09T01:29:03Z" min_lat="43.5734298" min_lon="-72.1648980" max_lat="43.6097880" max_lon="-72.1319501" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://uvlt.org/wp-content/uploads/2018/09/Smith-Pond-draft-map-w-distance-8-27-18.pdf;https://www.wildlife.state.nh.us/maps/bathymetry/halfmile_enfield.pdf;https://www.jimblockphoto.com/trails/trails-of-the-upper-valley/smith-pond/;local knowledge"/>
+  <tag k="changesets_count" v="238"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="2"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Bing;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImagery;EsriWorldImageryClarity;Mapbox"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Smith Pond Shaker Forest Trails &amp; Ponds"/>
+</changeset>
+<changeset id="90526077" created_at="2020-09-07T11:05:39Z" open="false" comments_count="0" changes_count="1" closed_at="2020-09-07T11:05:40Z" min_lat="43.6830121" min_lon="-75.2944777" max_lat="43.6837331" max_lon="-75.2865986" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="changesets_count" v="237"/>
+  <tag k="imagery_used" v="MAPNIK"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="rename hill road"/>
+</changeset>
+<changeset id="90524260" created_at="2020-09-07T10:36:37Z" open="false" comments_count="0" changes_count="2" closed_at="2020-09-07T10:36:43Z" min_lat="43.6979232" min_lon="-75.2797823" max_lat="43.7009217" max_lon="-75.2739817" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="236"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Dark Island, Brantingham Lake"/>
+</changeset>
+<changeset id="90496873" created_at="2020-09-07T01:12:07Z" open="false" comments_count="0" changes_count="18" closed_at="2020-09-07T01:12:08Z" min_lat="43.6879256" min_lon="-75.2830244" max_lat="43.7042987" max_lon="-75.2635461" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="235"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Align Brantingham"/>
+</changeset>
+<changeset id="90491734" created_at="2020-09-06T19:51:23Z" open="false" comments_count="0" changes_count="25" closed_at="2020-09-06T19:51:24Z" min_lat="43.6834186" min_lon="-75.2826564" max_lat="43.6865610" max_lon="-75.2776621" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="234"/>
+  <tag k="imagery_used" v="Maxar-Standard"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Brantingham Golf Clubhouse"/>
+</changeset>
+<changeset id="90485314" created_at="2020-09-06T15:54:01Z" open="false" comments_count="0" changes_count="8" closed_at="2020-09-06T15:54:02Z" min_lat="43.6835472" min_lon="-75.3558025" max_lat="43.6981740" max_lon="-75.2775000" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="233"/>
+  <tag k="resolved:crossing_ways:building-highway" v="1"/>
+  <tag k="imagery_used" v="Maxar-Standard;Bing Streetside;Mapillary Images;OpenStreetCam Images"/>
+  <tag k="source" v=";streetlevel imagery;streetside;mapillary;openstreetcam"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Brantingham businesses"/>
+</changeset>
+<changeset id="90484439" created_at="2020-09-06T15:28:34Z" open="false" comments_count="0" changes_count="75" closed_at="2020-09-06T15:28:34Z" min_lat="43.6763290" min_lon="-75.2868268" max_lat="43.6886138" max_lon="-75.2745429" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="232"/>
+  <tag k="resolved:help_request:fixme_tag" v="1"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;USGS-Scanned_Topographic"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Brantingham Golf Course"/>
+</changeset>
+<changeset id="90483919" created_at="2020-09-06T15:14:38Z" open="false" comments_count="0" changes_count="3" closed_at="2020-09-06T15:14:39Z" min_lat="43.6877983" min_lon="-75.2762749" max_lat="43.6934587" max_lon="-75.2631714" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="231"/>
+  <tag k="imagery_used" v="USGS-Scanned_Topographic;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Brantingham Lake: Cottage Road"/>
+</changeset>
+<changeset id="90479930" created_at="2020-09-06T13:11:55Z" open="false" comments_count="0" changes_count="16" closed_at="2020-09-06T13:11:55Z" min_lat="43.6884108" min_lon="-75.2757724" max_lat="43.6963100" max_lon="-75.2622440" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="230"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Bratingham road alignment"/>
+</changeset>
+<changeset id="90479862" created_at="2020-09-06T13:09:56Z" open="false" comments_count="0" changes_count="42" closed_at="2020-09-06T13:09:57Z" min_lat="43.6848684" min_lon="-75.3040322" max_lat="43.7276067" max_lon="-75.2635461" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="229"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity;Maxar-Premium"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 8: Brantingham Lily Pond"/>
+</changeset>
+<changeset id="90468671" created_at="2020-09-06T03:44:19Z" open="false" comments_count="0" changes_count="485" closed_at="2020-09-06T03:44:20Z" min_lat="43.7012370" min_lon="-75.3447111" max_lat="43.7509544" max_lon="-75.2619043" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="228"/>
+  <tag k="resolved:crossing_ways:building-highway" v="3"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Maxar-Premium"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 7"/>
+</changeset>
+<changeset id="90468389" created_at="2020-09-06T03:05:14Z" open="false" comments_count="0" changes_count="378" closed_at="2020-09-06T03:05:15Z" min_lat="43.7187038" min_lon="-75.3025970" max_lat="43.7551330" max_lon="-75.2537357" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="227"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 6"/>
+</changeset>
+<changeset id="90465379" created_at="2020-09-05T22:13:43Z" open="false" comments_count="0" changes_count="58" closed_at="2020-09-05T22:13:43Z" min_lat="43.7315476" min_lon="-75.2716946" max_lat="43.7338073" max_lon="-75.2604826" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="226"/>
+  <tag k="imagery_used" v="Maxar-Premium;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 5: missing ponds"/>
+</changeset>
+<changeset id="90465334" created_at="2020-09-05T22:10:07Z" open="false" comments_count="0" changes_count="106" closed_at="2020-09-05T22:10:08Z" min_lat="43.6888610" min_lon="-75.3042710" max_lat="43.7344465" max_lon="-75.2252370" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="225"/>
+  <tag k="resolved:crossing_ways:building-highway" v="5"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImageryClarity;Maxar-Premium"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 4"/>
+</changeset>
+<changeset id="90465160" created_at="2020-09-05T21:57:07Z" open="false" comments_count="0" changes_count="131" closed_at="2020-09-05T21:57:08Z" min_lat="43.6888610" min_lon="-75.3786496" max_lat="43.7436730" max_lon="-75.1254907" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="224"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 3"/>
+</changeset>
+<changeset id="90464741" created_at="2020-09-05T21:27:28Z" open="false" comments_count="0" changes_count="91" closed_at="2020-09-05T21:27:29Z" min_lat="43.7153001" min_lon="-75.3224980" max_lat="43.7422450" max_lon="-75.2675950" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="223"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 2"/>
+</changeset>
+<changeset id="90464448" created_at="2020-09-05T21:09:02Z" open="false" comments_count="0" changes_count="16" closed_at="2020-09-05T21:09:04Z" min_lat="43.7203831" min_lon="-75.2867873" max_lat="43.7220247" max_lon="-75.2847560" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;aerial imagery"/>
+  <tag k="changesets_count" v="222"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;Maxar-Premium"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="add Pitcher pond - edit by Trang Le @trang1618"/>
+</changeset>
+<changeset id="90461041" created_at="2020-09-05T18:11:44Z" open="false" comments_count="0" changes_count="266" closed_at="2020-09-05T18:11:46Z" min_lat="43.6888610" min_lon="-75.3786496" max_lat="43.7345360" max_lon="-75.1254907" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="221"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Otter Creek Trails Part 1"/>
+</changeset>
+<changeset id="90386947" created_at="2020-09-04T03:02:01Z" open="false" comments_count="0" changes_count="125" closed_at="2020-09-04T03:02:02Z" min_lat="42.2437608" min_lon="-73.4435996" max_lat="42.2759750" max_lon="-73.4268730" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="220"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );USDA-NAIP"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Alford Springs Saddle Trail"/>
+</changeset>
+<changeset id="90328517" created_at="2020-09-03T01:44:08Z" open="false" comments_count="0" changes_count="675" closed_at="2020-09-03T01:44:10Z" min_lat="43.5360170" min_lon="-72.2889994" max_lat="43.5595950" max_lon="-72.2526700" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="219"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );EsriWorldImageryClarity;Mapbox"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="French's Ledges major trail work"/>
+</changeset>
+<changeset id="90328084" created_at="2020-09-03T01:16:29Z" open="false" comments_count="0" changes_count="148" closed_at="2020-09-03T01:16:30Z" min_lat="43.8156680" min_lon="-72.1565410" max_lat="43.9015310" max_lon="-72.1141810" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="218"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="lyme town forest trails"/>
+</changeset>
+<changeset id="90327867" created_at="2020-09-03T01:03:23Z" open="false" comments_count="0" changes_count="112" closed_at="2020-09-03T01:03:24Z" min_lat="43.8047810" min_lon="-72.2718100" max_lat="43.8181450" max_lon="-72.2543420" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="217"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="union village dam trail alignment"/>
+</changeset>
+<changeset id="90268434" created_at="2020-09-02T00:33:02Z" open="false" comments_count="0" changes_count="8" closed_at="2020-09-02T00:33:02Z" min_lat="43.8274245" min_lon="-72.2474905" max_lat="43.8287590" max_lon="-72.2462840" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="216"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="buzzell bridge road gate"/>
+</changeset>
+<changeset id="90264222" created_at="2020-09-01T20:38:54Z" open="false" comments_count="0" changes_count="20" closed_at="2020-09-01T20:38:56Z" min_lat="43.7994246" min_lon="-72.2605880" max_lat="43.8266204" max_lon="-72.2478155" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="215"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="align buzzel bridge road"/>
+</changeset>
+<changeset id="90254172" created_at="2020-09-01T15:41:25Z" open="false" comments_count="0" changes_count="1" closed_at="2020-09-01T15:41:26Z" min_lat="42.2481449" min_lon="-73.4458915" max_lat="42.2483053" max_lon="-73.4456596" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://myhikes.org/trails/father-loop-trail-and-mother-loop-trail"/>
+  <tag k="changesets_count" v="214"/>
+  <tag k="imagery_used" v="Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="update parking spots"/>
+</changeset>
+<changeset id="90254023" created_at="2020-09-01T15:37:31Z" open="false" comments_count="0" changes_count="31" closed_at="2020-09-01T15:37:41Z" min_lat="42.2871820" min_lon="-73.4255523" max_lat="42.2928160" max_lon="-73.4184870" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="213"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  );EsriWorldImageryClarity;EsriWorldImagery;Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Alford MA houses and driveways"/>
+</changeset>
+<changeset id="90215586" created_at="2020-09-01T01:54:32Z" open="false" comments_count="0" changes_count="3" closed_at="2020-09-01T01:54:32Z" min_lat="43.7476684" min_lon="-72.3273329" max_lat="43.7478778" max_lon="-72.3270240" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="212"/>
+  <tag k="imagery_used" v="Mapbox;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Norwich Farm Creamery Tweaks"/>
+</changeset>
+<changeset id="90215498" created_at="2020-09-01T01:49:47Z" open="false" comments_count="0" changes_count="274" closed_at="2020-09-01T01:49:48Z" min_lat="43.6605709" min_lon="-72.2691979" max_lat="43.6917410" max_lon="-72.2330760" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="211"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;EsriWorldImagery;Mapbox"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Rix Ledges Trails"/>
+</changeset>
+<changeset id="90215047" created_at="2020-09-01T01:16:38Z" open="false" comments_count="0" changes_count="16" closed_at="2020-09-01T01:16:40Z" min_lat="43.6865987" min_lon="-72.2329941" max_lat="43.6879590" max_lon="-72.2260019" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="210"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Great Hollow Trail: update name based on trail sign"/>
+</changeset>
+<changeset id="90161661" created_at="2020-08-31T03:04:56Z" open="false" comments_count="0" changes_count="2" closed_at="2020-08-31T03:04:57Z" min_lat="43.7475414" min_lon="-72.3272421" max_lat="43.7478778" max_lon="-72.3270240" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="209"/>
+  <tag k="source" v="https://uvlt.org/wp-content/uploads/2017/11/BROOKMEAD_brochuremap.pdf"/>
+  <tag k="imagery_used" v="Mapbox;.gpx data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Norwich Farm Creamery &amp; Brookmead trailhead"/>
+</changeset>
+<changeset id="90159718" created_at="2020-08-31T01:05:41Z" open="false" comments_count="0" changes_count="87" closed_at="2020-08-31T01:05:43Z" min_lat="43.7058837" min_lon="-72.3144727" max_lat="43.7105667" max_lon="-72.3075759" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="208"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="betty booth trail norwich"/>
+</changeset>
+</osm>

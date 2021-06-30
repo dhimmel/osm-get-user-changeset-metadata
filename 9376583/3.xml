@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<changeset id="90153387" created_at="2020-08-30T18:34:36Z" open="false" comments_count="0" changes_count="2" closed_at="2020-08-30T18:34:37Z" min_lat="43.7213650" min_lon="-72.1667660" max_lat="43.7439853" max_lon="-72.1146619" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="207"/>
+  <tag k="imagery_used" v="MAPNIK"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="tracktype grades"/>
+</changeset>
+<changeset id="90122416" created_at="2020-08-29T15:03:33Z" open="false" comments_count="0" changes_count="13" closed_at="2020-08-29T15:03:34Z" min_lat="43.7569700" min_lon="-72.1950677" max_lat="43.7576090" max_lon="-72.1940580" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="206"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="fix montview drive cul de sac"/>
+</changeset>
+<changeset id="90122271" created_at="2020-08-29T14:57:39Z" open="false" comments_count="0" changes_count="25" closed_at="2020-08-29T14:57:39Z" min_lat="43.6909922" min_lon="-72.2764255" max_lat="43.7091890" max_lon="-72.2436075" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://tinyurl.com/y3ka5skq;https://www.uvlsrpc.org/files/5113/6033/8228/hazardmapsmallHANO121708.pdf"/>
+  <tag k="changesets_count" v="205"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;EsriWorldImagery;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="hanover water tanks"/>
+</changeset>
+<changeset id="90121401" created_at="2020-08-29T14:25:17Z" open="false" comments_count="0" changes_count="169" closed_at="2020-08-29T14:25:19Z" min_lat="43.6899410" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="204"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="velvet rocks trail updates"/>
+</changeset>
+<changeset id="90050358" created_at="2020-08-28T01:37:47Z" open="false" comments_count="0" changes_count="2" closed_at="2020-08-28T01:37:48Z" min_lat="43.6849121" min_lon="-72.1561914" max_lat="43.6876235" max_lon="-72.1511278" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="203"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Add browning mine entrance blocks"/>
+</changeset>
+<changeset id="90050324" created_at="2020-08-28T01:35:31Z" open="false" comments_count="0" changes_count="54" closed_at="2020-08-28T01:35:32Z" min_lat="43.7008410" min_lon="-72.1770740" max_lat="43.7108443" max_lon="-72.1542020" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="202"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="moose mountain lodge road alignment &amp; gate"/>
+</changeset>
+<changeset id="89997500" created_at="2020-08-27T02:58:51Z" open="false" comments_count="0" changes_count="5" closed_at="2020-08-27T02:58:52Z" min_lat="43.7083530" min_lon="-72.2771246" max_lat="43.7091412" max_lon="-72.2753940" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="201"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="girl brook trail bridge"/>
+</changeset>
+<changeset id="89997281" created_at="2020-08-27T02:49:55Z" open="false" comments_count="0" changes_count="1" closed_at="2020-08-27T02:49:56Z" min_lat="43.6851439" min_lon="-72.1510392" max_lat="43.6858489" max_lon="-72.1503702" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.vnews.com/Hanover-inventor-James-Browning-was-pioneer-in-high-velocity-plasma-jet-torches-21285230"/>
+  <tag k="changesets_count" v="200"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Browning quarry tags"/>
+</changeset>
+<changeset id="89824051" created_at="2020-08-23T23:27:24Z" open="false" comments_count="0" changes_count="56" closed_at="2020-08-23T23:27:25Z" min_lat="43.8869679" min_lon="-72.1043195" max_lat="43.9068120" max_lon="-72.0481230" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="199"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Sunday Mountain touch-ups"/>
+</changeset>
+<changeset id="89814042" created_at="2020-08-23T16:10:12Z" open="false" comments_count="0" changes_count="492" closed_at="2020-08-23T16:10:14Z" min_lat="44.0170030" min_lon="-72.1812880" max_lat="44.0540498" max_lon="-72.1484070" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.trailfinder.info/trails/trail/wright-s-mountain-trails;https://uvlt.org/docs/trails/Wrights_2011_trailMap.pdf;https://theparkexplorervt.wordpress.com/2014/02/03/wrights-mountain-bradford-town-forest/;aerial imagery;strava heatmap"/>
+  <tag k="changesets_count" v="198"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Wright's Mountain Bradford VT trails"/>
+</changeset>
+<changeset id="89797499" created_at="2020-08-23T04:09:53Z" open="false" comments_count="0" changes_count="72" closed_at="2020-08-23T04:09:53Z" min_lat="43.7963790" min_lon="-72.3568170" max_lat="43.8122150" max_lon="-72.3396630" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="197"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="turnpike road alighment"/>
+</changeset>
+<changeset id="89797427" created_at="2020-08-23T04:03:14Z" open="false" comments_count="0" changes_count="6" closed_at="2020-08-23T04:03:15Z" min_lat="43.8031002" min_lon="-72.3474514" max_lat="43.8033128" max_lon="-72.3470577" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="196"/>
+  <tag k="imagery_used" v="USDA-NAIP;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="four corners cemetery sharon VT"/>
+</changeset>
+<changeset id="89797329" created_at="2020-08-23T03:50:37Z" open="false" comments_count="0" changes_count="116" closed_at="2020-08-23T03:50:39Z" min_lat="43.8119180" min_lon="-72.3404829" max_lat="43.8267640" max_lon="-72.3251107" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps;aerial imagery"/>
+  <tag k="changesets_count" v="195"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Elizabeth copper mine 2020-08-22 updates"/>
+</changeset>
+<changeset id="89755750" created_at="2020-08-21T16:30:58Z" open="false" comments_count="0" changes_count="19" closed_at="2020-08-21T16:31:00Z" min_lat="43.7287721" min_lon="-72.1994488" max_lat="43.7301838" max_lon="-72.1961359" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="194"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="5 Algonquin Trail"/>
+</changeset>
+<changeset id="89755140" created_at="2020-08-21T16:13:03Z" open="false" comments_count="0" changes_count="148" closed_at="2020-08-21T16:13:04Z" min_lat="43.7364241" min_lon="-72.2071780" max_lat="43.7596490" max_lon="-72.1822560" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="193"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;USDA-NAIP;Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlc"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="more huntington hill trailheads"/>
+</changeset>
+<changeset id="89715133" created_at="2020-08-21T00:00:22Z" open="false" comments_count="0" changes_count="23" closed_at="2020-08-21T00:00:23Z" min_lat="43.6446530" min_lon="-72.0612140" max_lat="43.6472960" max_lon="-72.0558390" uid="9376583" user="dhimmel">
+  <tag k="review_requested" v="yes"/>
+  <tag k="changesets_count" v="192"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="delete indian river water points (not sure why these are here)"/>
+</changeset>
+<changeset id="89715074" created_at="2020-08-20T23:56:11Z" open="false" comments_count="0" changes_count="37" closed_at="2020-08-20T23:56:13Z" min_lat="43.6512109" min_lon="-72.1011502" max_lat="43.6560385" max_lon="-72.0971198" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="191"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="mascoma valley high school trail"/>
+</changeset>
+<changeset id="89639730" created_at="2020-08-19T14:17:15Z" open="false" comments_count="0" changes_count="119" closed_at="2020-08-19T14:17:17Z" min_lat="43.8201733" min_lon="-72.2331570" max_lat="43.8385421" max_lon="-72.2233464" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="190"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="update mimi trail alignment and tags"/>
+</changeset>
+<changeset id="89598990" created_at="2020-08-18T23:29:45Z" open="false" comments_count="0" changes_count="16" closed_at="2020-08-18T23:29:46Z" min_lat="39.9902210" min_lon="-75.2080372" max_lat="39.9951310" max_lon="-75.2018585" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="189"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Belmont Plateau MTB trails naming"/>
+</changeset>
+<changeset id="89598874" created_at="2020-08-18T23:21:50Z" open="false" comments_count="0" changes_count="92" closed_at="2020-08-18T23:21:52Z" min_lat="39.9899233" min_lon="-75.2095075" max_lat="39.9951310" max_lon="-75.2018585" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="188"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Belmont Plateau MTB trails alignment"/>
+</changeset>
+<changeset id="89577225" created_at="2020-08-18T13:09:26Z" open="false" comments_count="0" changes_count="14" closed_at="2020-08-18T13:09:27Z" min_lat="43.8240690" min_lon="-72.3090228" max_lat="43.8254362" max_lon="-72.3074401" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="187"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="pond in norwich"/>
+</changeset>
+<changeset id="89577135" created_at="2020-08-18T13:07:26Z" open="false" comments_count="0" changes_count="57" closed_at="2020-08-18T13:07:27Z" min_lat="43.7526578" min_lon="-72.3549788" max_lat="43.7892027" max_lon="-72.3428160" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="186"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="gile mountain trails"/>
+</changeset>
+<changeset id="89544805" created_at="2020-08-18T03:12:00Z" open="false" comments_count="0" changes_count="21" closed_at="2020-08-18T03:12:01Z" min_lat="43.8119180" min_lon="-72.3391343" max_lat="43.8206901" max_lon="-72.3383843" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="185"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Elizabeth Mine trail"/>
+</changeset>
+<changeset id="89544712" created_at="2020-08-18T03:08:07Z" open="false" comments_count="0" changes_count="190" closed_at="2020-08-18T03:08:09Z" min_lat="43.7343010" min_lon="-72.3568170" max_lat="43.8165100" max_lon="-72.2972070" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="184"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Norwich trails"/>
+</changeset>
+<changeset id="89544476" created_at="2020-08-18T02:58:20Z" open="false" comments_count="0" changes_count="55" closed_at="2020-08-18T02:58:21Z" min_lat="43.7717963" min_lon="-72.2971913" max_lat="43.7799213" max_lon="-72.2847804" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="183"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Westinghouse Hill Trails"/>
+</changeset>
+<changeset id="89544378" created_at="2020-08-18T02:53:56Z" open="false" comments_count="0" changes_count="41" closed_at="2020-08-18T02:53:56Z" min_lat="43.7099480" min_lon="-72.3612000" max_lat="43.7277035" max_lon="-72.3426110" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.trailfinder.info/trails/trail/happy-hill-appalachian-trail-cossingham-road-loop"/>
+  <tag k="changesets_count" v="182"/>
+  <tag k="resolved:crossing_ways:highway-highway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="William Tucker Trail"/>
+</changeset>
+<changeset id="89544240" created_at="2020-08-18T02:48:01Z" open="false" comments_count="0" changes_count="183" closed_at="2020-08-18T02:48:02Z" min_lat="43.7099480" min_lon="-72.3528793" max_lat="43.7212601" max_lon="-72.3333422" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://uvlt.org/docs/trails/CossinghamTrails_2011_landscape.pdf"/>
+  <tag k="changesets_count" v="181"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Cossingham Road Farm trails Norwich"/>
+</changeset>
+<changeset id="89543809" created_at="2020-08-18T02:25:18Z" open="false" comments_count="0" changes_count="48" closed_at="2020-08-18T02:25:19Z" min_lat="43.7223605" min_lon="-72.4480678" max_lat="43.7513243" max_lon="-72.4006563" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="180"/>
+  <tag k="imagery_used" v="USGS-Scanned_Topographic;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Mitchell Brook"/>
+</changeset>
+<changeset id="89543629" created_at="2020-08-18T02:15:15Z" open="false" comments_count="0" changes_count="241" closed_at="2020-08-18T02:15:16Z" min_lat="43.4613320" min_lon="-72.3041940" max_lat="43.4973020" max_lon="-72.2614551" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="179"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="cornish trails near clark camp road and corbin park"/>
+</changeset>
+<changeset id="89543340" created_at="2020-08-18T02:00:01Z" open="false" comments_count="0" changes_count="52" closed_at="2020-08-18T02:00:03Z" min_lat="43.5109404" min_lon="-72.3480040" max_lat="43.5175129" max_lon="-72.3399693" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="178"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Read Hill ways"/>
+</changeset>
+<changeset id="89543205" created_at="2020-08-18T01:52:57Z" open="false" comments_count="0" changes_count="134" closed_at="2020-08-18T01:52:58Z" min_lat="43.6861239" min_lon="-72.1303920" max_lat="43.7556908" max_lon="-72.0848727" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="177"/>
+  <tag k="imagery_used" v="USGS-Scanned_Topographic;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Pressey and Tunis brooks"/>
+</changeset>
+<changeset id="89543023" created_at="2020-08-18T01:40:20Z" open="false" comments_count="0" changes_count="99" closed_at="2020-08-18T01:40:21Z" min_lat="43.7135864" min_lon="-72.2182060" max_lat="43.7372899" max_lon="-72.1961359" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="176"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="more private lord's hill trails"/>
+</changeset>
+<changeset id="89542204" created_at="2020-08-18T00:41:55Z" open="false" comments_count="0" changes_count="178" closed_at="2020-08-18T00:41:57Z" min_lat="43.7182950" min_lon="-72.2182060" max_lat="43.7358430" max_lon="-72.1994488" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="175"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="lord's hill trails via strava heatmap"/>
+</changeset>
+<changeset id="89536860" created_at="2020-08-17T20:08:43Z" open="false" comments_count="0" changes_count="47" closed_at="2020-08-17T20:08:54Z" min_lat="43.7722287" min_lon="-71.9615996" max_lat="43.7855145" max_lon="-71.9507758" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="174"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  );EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Green Woodlands Dorchester Connector"/>
+</changeset>
+<changeset id="89536566" created_at="2020-08-17T20:00:00Z" open="false" comments_count="0" changes_count="93" closed_at="2020-08-17T20:00:01Z" min_lat="43.7806905" min_lon="-71.9744954" max_lat="43.8217253" max_lon="-71.9272394" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="173"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="more green woodland MTB trails"/>
+</changeset>
+<changeset id="89536256" created_at="2020-08-17T19:50:12Z" open="false" comments_count="0" changes_count="197" closed_at="2020-08-17T19:50:13Z" min_lat="43.8158148" min_lon="-71.9930694" max_lat="43.8326560" max_lon="-71.9433566" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="172"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Green Woodlands missing MTB trails"/>
+</changeset>
+<changeset id="89535494" created_at="2020-08-17T19:26:56Z" open="false" comments_count="0" changes_count="39" closed_at="2020-08-17T19:26:57Z" min_lat="43.7479243" min_lon="-72.1954335" max_lat="43.7524849" max_lon="-72.1895212" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="171"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Allegra Field Trail alignment"/>
+</changeset>
+<changeset id="89535405" created_at="2020-08-17T19:24:37Z" open="false" comments_count="0" changes_count="24" closed_at="2020-08-17T19:24:38Z" min_lat="43.7452020" min_lon="-72.1871450" max_lat="43.7661700" max_lon="-72.1720250" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="170"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="align wardrobe road"/>
+</changeset>
+<changeset id="89535309" created_at="2020-08-17T19:21:50Z" open="false" comments_count="0" changes_count="62" closed_at="2020-08-17T19:21:51Z" min_lat="43.7059470" min_lon="-72.2235190" max_lat="43.7561090" max_lon="-72.1906688" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="169"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  );EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="slade brook alignment"/>
+</changeset>
+<changeset id="89489049" created_at="2020-08-17T03:03:03Z" open="false" comments_count="0" changes_count="144" closed_at="2020-08-17T03:03:04Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="168"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Goose Pond Road Vicinity Trails"/>
+</changeset>
+<changeset id="89488775" created_at="2020-08-17T02:48:54Z" open="false" comments_count="0" changes_count="4" closed_at="2020-08-17T02:48:55Z" min_lat="43.7213650" min_lon="-72.1667660" max_lat="43.7439853" max_lon="-72.1146619" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="167"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Wolfboro and Tunis Gates"/>
+</changeset>
+<changeset id="89488696" created_at="2020-08-17T02:45:27Z" open="false" comments_count="0" changes_count="80" closed_at="2020-08-17T02:45:29Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge;strava heatmap;https://www.strava.com/activities/3924188088"/>
+  <tag k="changesets_count" v="166"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.gpx data file;Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="The Dismal at Pressey Brook, Wolfboro, and AT"/>
+</changeset>
+<changeset id="89479991" created_at="2020-08-16T18:14:40Z" open="false" comments_count="0" changes_count="5" closed_at="2020-08-16T18:14:41Z" min_lat="43.8978000" min_lon="-72.0783830" max_lat="43.9000440" max_lon="-72.0731188" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="165"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKi"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Sunday Mountain Dame Road Trailhead"/>
+</changeset>
+<changeset id="89479693" created_at="2020-08-16T18:02:58Z" open="false" comments_count="0" changes_count="213" closed_at="2020-08-16T18:02:58Z" min_lat="43.5856180" min_lon="-72.3014680" max_lat="43.6332220" max_lon="-72.2237964" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="164"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="poverty lane trails"/>
+</changeset>
+<changeset id="89479361" created_at="2020-08-16T17:50:18Z" open="false" comments_count="0" changes_count="80" closed_at="2020-08-16T17:50:20Z" min_lat="43.6105549" min_lon="-72.2291717" max_lat="43.6378279" max_lon="-72.1920490" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="163"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="bass hill trails"/>
+</changeset>
+<changeset id="89472945" created_at="2020-08-16T13:55:29Z" open="false" comments_count="0" changes_count="290" closed_at="2020-08-16T13:55:30Z" min_lat="43.7243901" min_lon="-72.3618037" max_lat="43.7512764" max_lon="-72.3203235" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="162"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKi"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Thin and realign Bill Ballard Trial"/>
+</changeset>
+<changeset id="89472597" created_at="2020-08-16T13:44:07Z" open="false" comments_count="0" changes_count="221" closed_at="2020-08-16T13:44:08Z" min_lat="43.7065975" min_lon="-72.4133050" max_lat="43.7512764" max_lon="-72.3215920" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="161"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Norwich Trail alignment"/>
+</changeset>
+<changeset id="89472304" created_at="2020-08-16T13:34:32Z" open="false" comments_count="0" changes_count="55" closed_at="2020-08-16T13:34:34Z" min_lat="43.6443047" min_lon="-72.2427002" max_lat="43.6521684" max_lon="-72.1900262" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery"/>
+  <tag k="changesets_count" v="160"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Power Line in Lebanon"/>
+</changeset>
+<changeset id="89472062" created_at="2020-08-16T13:25:14Z" open="false" comments_count="0" changes_count="117" closed_at="2020-08-16T13:25:14Z" min_lat="43.6436073" min_lon="-72.2444095" max_lat="43.6667311" max_lon="-72.2210920" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery;strava heatmap"/>
+  <tag k="changesets_count" v="159"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Signal Hill Trails"/>
+</changeset>
+<changeset id="89471790" created_at="2020-08-16T13:14:57Z" open="false" comments_count="0" changes_count="51" closed_at="2020-08-16T13:14:59Z" min_lat="43.6126567" min_lon="-72.3100232" max_lat="43.6204953" max_lon="-72.3054101" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="158"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Mount Finish / LEB trails"/>
+</changeset>
+<changeset id="89471475" created_at="2020-08-16T13:02:36Z" open="false" comments_count="0" changes_count="60" closed_at="2020-08-16T13:02:37Z" min_lat="43.5990170" min_lon="-72.1429940" max_lat="43.6396310" max_lon="-72.1125760" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;aerial imagery"/>
+  <tag k="changesets_count" v="157"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKi"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Shaker Boulevard Houses"/>
+</changeset>
+<changeset id="89471323" created_at="2020-08-16T12:55:51Z" open="false" comments_count="0" changes_count="40" closed_at="2020-08-16T12:55:52Z" min_lat="43.6061979" min_lon="-72.1818500" max_lat="43.6497650" max_lon="-72.1204917" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="156"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="beach on southeast mascoma lake"/>
+</changeset>
+<changeset id="89461349" created_at="2020-08-16T03:39:23Z" open="false" comments_count="0" changes_count="94" closed_at="2020-08-16T03:39:24Z" min_lat="43.7107690" min_lon="-72.2678225" max_lat="43.7193901" max_lon="-72.2542320" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="155"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="balch hill trail alignment"/>
+</changeset>
+<changeset id="89461278" created_at="2020-08-16T03:31:36Z" open="false" comments_count="0" changes_count="3" closed_at="2020-08-16T03:31:37Z" min_lat="43.7126660" min_lon="-72.2668600" max_lat="43.7129077" max_lon="-72.2659230" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="154"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="align piane trail"/>
+</changeset>
+<changeset id="89461192" created_at="2020-08-16T03:23:44Z" open="false" comments_count="0" changes_count="116" closed_at="2020-08-16T03:23:45Z" min_lat="43.6470800" min_lon="-72.1423980" max_lat="43.7041700" max_lon="-72.0935035" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="153"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Goose Pond &amp; Lovejoy Brook Road"/>
+</changeset>
+<changeset id="89460843" created_at="2020-08-16T02:39:39Z" open="false" comments_count="0" changes_count="78" closed_at="2020-08-16T02:39:40Z" min_lat="43.8201733" min_lon="-72.2331570" max_lat="43.8434994" max_lon="-72.2199612" uid="9376583" user="dhimmel">
+  <tag k="source" v="strava heatmap"/>
+  <tag k="changesets_count" v="152"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Houghlin Hill Trail alignment"/>
+</changeset>
+<changeset id="89460776" created_at="2020-08-16T02:30:11Z" open="false" comments_count="0" changes_count="89" closed_at="2020-08-16T02:30:11Z" min_lat="43.8417860" min_lon="-72.2218250" max_lat="43.8498120" max_lon="-72.2056670" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery"/>
+  <tag k="changesets_count" v="151"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="turnpike road alighment"/>
+</changeset>
+<changeset id="89460752" created_at="2020-08-16T02:25:33Z" open="false" comments_count="0" changes_count="16" closed_at="2020-08-16T02:25:35Z" min_lat="43.8148506" min_lon="-72.3386960" max_lat="43.8171673" max_lon="-72.3384575" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="150"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Elizabeth Copper Mines"/>
+</changeset>
+<changeset id="89460680" created_at="2020-08-16T02:15:42Z" open="false" comments_count="0" changes_count="79" closed_at="2020-08-16T02:15:43Z" min_lat="43.6617234" min_lon="-72.1530277" max_lat="43.6665220" max_lon="-72.1492212" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery"/>
+  <tag k="changesets_count" v="149"/>
+  <tag k="resolved:close_nodes:detached" v="1"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Enfield Resevoir"/>
+</changeset>
+<changeset id="89460580" created_at="2020-08-16T02:06:02Z" open="false" comments_count="0" changes_count="28" closed_at="2020-08-16T02:06:03Z" min_lat="43.6851439" min_lon="-72.1510392" max_lat="43.6858489" max_lon="-72.1503702" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery"/>
+  <tag k="changesets_count" v="148"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Quarry off of Goss Road"/>
+</changeset>
+<changeset id="89460510" created_at="2020-08-16T01:57:40Z" open="false" comments_count="0" changes_count="129" closed_at="2020-08-16T01:57:41Z" min_lat="43.6952709" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="147"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Moose Mountain Trails"/>
+</changeset>
+<changeset id="89460418" created_at="2020-08-16T01:48:32Z" open="false" comments_count="0" changes_count="158" closed_at="2020-08-16T01:48:32Z" min_lat="43.6631160" min_lon="-72.1649469" max_lat="43.7097990" max_lon="-72.1304660" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap;aerial imagery;https://www.hanoverconservancy.org/hike/baum-conservation-area-and-moose-mountain/;https://www.smugmug.com/gallery/n-JRPZPr/i-G8CRzm8/A"/>
+  <tag k="changesets_count" v="146"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Baum Conservation Area"/>
+</changeset>
+<changeset id="89460175" created_at="2020-08-16T01:29:59Z" open="false" comments_count="0" changes_count="578" closed_at="2020-08-16T01:30:01Z" min_lat="43.6425370" min_lon="-72.2405333" max_lat="43.7166650" max_lon="-72.1177218" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="145"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Etna trails using Strava Heatmap and Town of Hanover AxisGIS"/>
+</changeset>
+<changeset id="89448942" created_at="2020-08-15T15:16:31Z" open="false" comments_count="0" changes_count="64" closed_at="2020-08-15T15:16:31Z" min_lat="44.5313020" min_lon="-72.8269130" max_lat="44.5682610" max_lon="-72.7835580" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="144"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Mount Mansfield trail alignment"/>
+</changeset>
+<changeset id="89448563" created_at="2020-08-15T15:03:01Z" open="false" comments_count="0" changes_count="67" closed_at="2020-08-15T15:03:01Z" min_lat="43.6639202" min_lon="-72.0963250" max_lat="43.6818420" max_lon="-72.0558506" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap;https://uvlt.org/docs/trails/BearPond-trail_map.pdf"/>
+  <tag k="changesets_count" v="143"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Bear Pond Natural Area Trails Canaan, NH"/>
+</changeset>
+<changeset id="89448335" created_at="2020-08-15T14:55:23Z" open="false" comments_count="0" changes_count="22" closed_at="2020-08-15T14:55:24Z" min_lat="43.6457261" min_lon="-71.9076339" max_lat="43.6569827" max_lon="-71.8826040" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="142"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Cardigan Mountain Trail Alignment"/>
+</changeset>
+<changeset id="89448137" created_at="2020-08-15T14:48:36Z" open="false" comments_count="0" changes_count="43" closed_at="2020-08-15T14:48:36Z" min_lat="43.7682950" min_lon="-72.1663720" max_lat="43.8037730" max_lon="-72.1389240" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="141"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Realign Easy Street"/>
+</changeset>
+<changeset id="89447918" created_at="2020-08-15T14:43:11Z" open="false" comments_count="0" changes_count="28" closed_at="2020-08-15T14:43:11Z" min_lat="43.7986260" min_lon="-72.1872930" max_lat="43.8216370" max_lon="-72.1614350" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="140"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="river road / lyme trail tweaks"/>
+</changeset>
+<changeset id="89447743" created_at="2020-08-15T14:37:12Z" open="false" comments_count="0" changes_count="17" closed_at="2020-08-15T14:37:13Z" min_lat="43.7350790" min_lon="-72.2161790" max_lat="43.7362460" max_lon="-72.2142100" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="139"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Pierce's Inn, Etna NH"/>
+</changeset>
+<changeset id="89447193" created_at="2020-08-15T14:18:59Z" open="false" comments_count="0" changes_count="75" closed_at="2020-08-15T14:19:00Z" min_lat="43.7253804" min_lon="-72.2279194" max_lat="43.7426698" max_lon="-72.2122095" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="138"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Pinneo / Lord's Hill some trails"/>
+</changeset>
+<changeset id="89447037" created_at="2020-08-15T14:13:03Z" open="false" comments_count="0" changes_count="100" closed_at="2020-08-15T14:13:03Z" min_lat="43.7802230" min_lon="-72.2562180" max_lat="43.8158120" max_lon="-72.2218260" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="137"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="thetford academy trails, realign, add missing"/>
+</changeset>
+<changeset id="89446862" created_at="2020-08-15T14:05:07Z" open="false" comments_count="0" changes_count="8" closed_at="2020-08-15T14:05:08Z" min_lat="43.8729161" min_lon="-72.1400027" max_lat="43.9085541" max_lon="-72.0465300" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="136"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="More CRT relations, NH side"/>
+</changeset>
+<changeset id="89446607" created_at="2020-08-15T13:54:14Z" open="false" comments_count="0" changes_count="43" closed_at="2020-08-15T13:54:15Z" min_lat="43.8908200" min_lon="-72.2627930" max_lat="43.9471100" max_lon="-72.1058390" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="135"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Hiking Route Cross Rivendell Trial Relations"/>
+</changeset>
+<changeset id="89445798" created_at="2020-08-15T13:21:30Z" open="false" comments_count="0" changes_count="2" closed_at="2020-08-15T13:21:31Z" min_lat="43.8813037" min_lon="-72.1362782" max_lat="43.9067230" max_lon="-72.0234885" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="134"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Cross Rivendell Trail NH Relations"/>
+</changeset>
+<changeset id="89445122" created_at="2020-08-15T12:56:18Z" open="false" comments_count="0" changes_count="235" closed_at="2020-08-15T12:56:20Z" min_lat="43.8729161" min_lon="-72.3768557" max_lat="43.9702710" max_lon="-72.0465300" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="133"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap;https://rivendelltrail.squarespace.com/"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Cross Rivendell Trail"/>
+</changeset>
+<changeset id="89434544" created_at="2020-08-15T03:11:45Z" open="false" comments_count="0" changes_count="113" closed_at="2020-08-15T03:11:46Z" min_lat="43.6615156" min_lon="-72.2689937" max_lat="43.6934759" max_lon="-72.2197203" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="132"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Rix Ledges &amp; Hypertherm trails"/>
+</changeset>
+<changeset id="89434467" created_at="2020-08-15T03:03:30Z" open="false" comments_count="0" changes_count="55" closed_at="2020-08-15T03:03:41Z" min_lat="43.6913139" min_lon="-72.2818186" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="131"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Realign Hanover Trails near the Co-Op"/>
+</changeset>
+<changeset id="89434428" created_at="2020-08-15T02:58:39Z" open="false" comments_count="0" changes_count="30" closed_at="2020-08-15T02:58:39Z" min_lat="43.6944794" min_lon="-72.2587163" max_lat="43.7012659" max_lon="-72.2536895" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="130"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Realign Greensboro Highland &amp; Oli Trails"/>
+</changeset>
+<changeset id="89434358" created_at="2020-08-15T02:52:30Z" open="false" comments_count="0" changes_count="169" closed_at="2020-08-15T02:52:30Z" min_lat="43.3956915" min_lon="-72.3830281" max_lat="43.6341848" max_lon="-72.2663660" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="129"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Farnum Hill Reserve Trails using Strava Heatmap"/>
+</changeset>
+<changeset id="89434250" created_at="2020-08-15T02:38:10Z" open="false" comments_count="0" changes_count="96" closed_at="2020-08-15T02:38:11Z" min_lat="43.8380511" min_lon="-72.1302674" max_lat="43.8596060" max_lon="-72.1113209" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="128"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Lyme Town Forest Trails"/>
+</changeset>
+<changeset id="89434207" created_at="2020-08-15T02:32:43Z" open="false" comments_count="0" changes_count="51" closed_at="2020-08-15T02:32:43Z" min_lat="43.8135191" min_lon="-72.1467090" max_lat="43.8321510" max_lon="-72.1179080" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="127"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Acorn Hill Trails"/>
+</changeset>
+<changeset id="89434163" created_at="2020-08-15T02:27:00Z" open="false" comments_count="0" changes_count="164" closed_at="2020-08-15T02:27:00Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="126"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Moose Mountain Trails"/>
+</changeset>
+<changeset id="89434076" created_at="2020-08-15T02:13:31Z" open="false" comments_count="0" changes_count="46" closed_at="2020-08-15T02:13:33Z" min_lat="43.6887900" min_lon="-72.2805761" max_lat="43.8657975" max_lon="-72.0290806" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="125"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/all/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYX"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Old Highway 38 Trail"/>
+</changeset>
+<changeset id="89434013" created_at="2020-08-15T02:05:06Z" open="false" comments_count="0" changes_count="484" closed_at="2020-08-15T02:05:07Z" min_lat="43.7059470" min_lon="-72.2676644" max_lat="43.7397430" max_lon="-72.1906688" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;Strava Heatmap"/>
+  <tag k="changesets_count" v="124"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/both/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEY"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Realign, add, and delete trails at Trescott Lands, Oak Hill, and Storrs Pond. Based primarily on Strava Detailed Global Heatmap"/>
+</changeset>
+<changeset id="89433704" created_at="2020-08-15T01:25:33Z" open="false" comments_count="0" changes_count="17" closed_at="2020-08-15T01:25:33Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.7656942" max_lon="-72.2104731" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="123"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/both/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEY"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Pipers Lane align with strava heatmap"/>
+</changeset>
+<changeset id="89433649" created_at="2020-08-15T01:21:04Z" open="false" comments_count="0" changes_count="18" closed_at="2020-08-15T01:21:05Z" min_lat="43.7213650" min_lon="-72.1245751" max_lat="43.7533388" max_lon="-72.0981360" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="122"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/both/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEY"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="tunis road tweaks from Strava Heatmap"/>
+</changeset>
+<changeset id="89433606" created_at="2020-08-15T01:16:54Z" open="false" comments_count="0" changes_count="100" closed_at="2020-08-15T01:16:55Z" min_lat="43.7059470" min_lon="-72.2116477" max_lat="43.7606550" max_lon="-72.1599290" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="121"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/both/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEY"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Huntington Hill tweaks based on Strava Heatmap"/>
+</changeset>
+<changeset id="89433459" created_at="2020-08-15T01:01:41Z" open="false" comments_count="0" changes_count="58" closed_at="2020-08-15T01:01:42Z" min_lat="43.7396315" min_lon="-72.2132397" max_lat="43.7497640" max_lon="-72.1931789" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap"/>
+  <tag k="changesets_count" v="120"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles-auth/both/bluered/{zoom}/{x}/{y}.png?Key-Pair-Id=APKAIDPUN4QMG7VUQPSA&amp;Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vaGVhdG1hcC1leHRlcm5hbC0qLnN0cmF2YS5jb20vKiIsIkNvbmRpdGlvbiI6eyJEY"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Huntington Hill tweaks based on Strava Heatmap"/>
+</changeset>
+<changeset id="89361910" created_at="2020-08-13T14:15:38Z" open="false" comments_count="0" changes_count="29" closed_at="2020-08-13T14:15:49Z" min_lat="43.6925430" min_lon="-72.2587163" max_lat="43.7012659" max_lon="-72.2537767" uid="9376583" user="dhimmel">
+  <tag k="source" v="Strava Heatmap;AxisGIS"/>
+  <tag k="changesets_count" v="119"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles/all/bluered/{zoom}/{x}/{y}.png?px=100 )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Trails from Greensboro Road offshoots to the AT. Trail names from https://www.axisgis.com/HanoverNH"/>
+</changeset>
+<changeset id="89361000" created_at="2020-08-13T13:54:38Z" open="false" comments_count="0" changes_count="17" closed_at="2020-08-13T13:54:40Z" min_lat="43.7271810" min_lon="-72.2428164" max_lat="43.7388150" max_lon="-72.2279194" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;Strava Heatmap"/>
+  <tag k="changesets_count" v="118"/>
+  <tag k="imagery_used" v="Custom (https://heatmap-external-{switch:a,b,c}.strava.com/tiles/all/bluered/{zoom}/{x}/{y}.png?px=512 )"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Mark trails as disused and private on Ellen Fullington Property. Confirmed via Strava Heatmap that these are not in use and have not seen any trailheads from Pinneo Hill Road."/>
+</changeset>
+<changeset id="89326504" created_at="2020-08-13T01:29:06Z" open="false" comments_count="0" changes_count="153" closed_at="2020-08-13T01:29:17Z" min_lat="43.6556478" min_lon="-72.3134957" max_lat="44.6058693" max_lon="-71.5345336" uid="9376583" user="dhimmel">
+  <tag k="source" v="NH GRANIT;aerial imagery"/>
+  <tag k="changesets_count" v="117"/>
+  <tag k="imagery_used" v="EsriWorldImageryClarity;.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Slade Brook"/>
+</changeset>
+<changeset id="89326380" created_at="2020-08-13T01:19:14Z" open="false" comments_count="0" changes_count="403" closed_at="2020-08-13T01:19:16Z" min_lat="43.6556478" min_lon="-72.3134957" max_lat="44.6058693" max_lon="-71.5345336" uid="9376583" user="dhimmel">
+  <tag k="source" v="NH GRANIT;aerial imagery"/>
+  <tag k="changesets_count" v="116"/>
+  <tag k="imagery_used" v="Bing;.kml data file;EsriWorldImageryClarity"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Hewes Brook and other Connecticut River tributaries"/>
+</changeset>
+<changeset id="89323966" created_at="2020-08-12T22:11:09Z" open="false" comments_count="0" changes_count="53" closed_at="2020-08-12T22:11:11Z" min_lat="43.6556478" min_lon="-72.3134957" max_lat="44.6058693" max_lon="-71.5345336" uid="9376583" user="dhimmel">
+  <tag k="source" v="NH GRANIT"/>
+  <tag k="changesets_count" v="115"/>
+  <tag k="imagery_used" v="Bing;.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="stream near grant road"/>
+</changeset>
+<changeset id="89160288" created_at="2020-08-09T17:31:49Z" open="false" comments_count="0" changes_count="13" closed_at="2020-08-09T17:31:51Z" min_lat="43.7623708" min_lon="-72.2094041" max_lat="43.7627185" max_lon="-72.2091230" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="114"/>
+  <tag k="imagery_used" v="Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Prescott Pond"/>
+</changeset>
+<changeset id="89155713" created_at="2020-08-09T14:29:03Z" open="false" comments_count="0" changes_count="68" closed_at="2020-08-09T14:29:05Z" min_lat="43.6556478" min_lon="-72.3134957" max_lat="44.6058693" max_lon="-71.5345336" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="113"/>
+  <tag k="imagery_used" v="Bing;.kml data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="add beginning of Camp Brook in Hanover"/>
+</changeset>
+<changeset id="89131832" created_at="2020-08-08T15:36:08Z" open="false" comments_count="0" changes_count="36" closed_at="2020-08-08T15:36:20Z" min_lat="43.7397340" min_lon="-72.2132397" max_lat="43.7496700" max_lon="-72.1919843" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="changesets_count" v="112"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Huntington Hill trails https://www.strava.com/activities/3883174308"/>
+</changeset>
+<changeset id="89044954" created_at="2020-08-06T14:30:50Z" open="false" comments_count="0" changes_count="42" closed_at="2020-08-06T14:30:51Z" min_lat="43.6720260" min_lon="-72.2854390" max_lat="43.6847322" max_lon="-72.2706820" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="changesets_count" v="111"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Schweitzer &amp; Boston Lot Trail Tweaks"/>
+</changeset>
+<changeset id="88894437" created_at="2020-08-03T20:42:17Z" open="false" comments_count="0" changes_count="1" closed_at="2020-08-03T20:42:29Z" min_lat="43.7023701" min_lon="-72.2646607" max_lat="43.7023701" max_lon="-72.2646607" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="110"/>
+  <tag k="imagery_used" v="MAPNIK;vectortile:https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.4"/>
+  <tag k="comment" v="Velvet rocks shelter_type"/>
+</changeset>
+<changeset id="88702956" created_at="2020-07-30T01:10:51Z" open="false" comments_count="0" changes_count="5" closed_at="2020-07-30T01:10:52Z" min_lat="43.7838764" min_lon="-72.0997419" max_lat="43.7901168" max_lon="-72.0862776" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="109"/>
+  <tag k="imagery_used" v="Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="skiway edit"/>
+</changeset>
+<changeset id="88702782" created_at="2020-07-30T00:56:44Z" open="false" comments_count="0" changes_count="41" closed_at="2020-07-30T00:56:46Z" min_lat="43.5773717" min_lon="-72.3233068" max_lat="43.6064479" max_lon="-72.2983515" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="changesets_count" v="108"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="Trails near True's Ledges https://www.strava.com/activities/3835562730"/>
+</changeset>
+</osm>

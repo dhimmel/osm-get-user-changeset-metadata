@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<changeset id="88531473" created_at="2020-07-26T20:12:47Z" open="false" comments_count="0" changes_count="16" closed_at="2020-07-26T20:12:48Z" min_lat="43.7311041" min_lon="-72.2636965" max_lat="43.7328633" max_lon="-72.2619895" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps"/>
+  <tag k="changesets_count" v="107"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="Kendal Riverfront Parking tweaks"/>
+</changeset>
+<changeset id="88520081" created_at="2020-07-26T12:50:24Z" open="false" comments_count="0" changes_count="9" closed_at="2020-07-26T12:50:25Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8471430" max_lon="-72.1798720" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="106"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="Hewes Brook Boat Launch"/>
+</changeset>
+<changeset id="88519727" created_at="2020-07-26T12:33:55Z" open="false" comments_count="0" changes_count="40" closed_at="2020-07-26T12:33:56Z" min_lat="43.7311044" min_lon="-72.2638157" max_lat="43.7330790" max_lon="-72.2619769" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps;aerial imagery"/>
+  <tag k="changesets_count" v="105"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="Kendal Riverfront Park, Hanover NH"/>
+</changeset>
+<changeset id="88509247" created_at="2020-07-26T01:20:38Z" open="false" comments_count="0" changes_count="29" closed_at="2020-07-26T01:20:38Z" min_lat="43.7584692" min_lon="-71.9857586" max_lat="43.7708186" max_lon="-71.9459645" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="104"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="Green Woodlands edits MTB from Dorchester part 2"/>
+</changeset>
+<changeset id="88509040" created_at="2020-07-26T00:43:53Z" open="false" comments_count="0" changes_count="95" closed_at="2020-07-26T00:43:56Z" min_lat="43.7569882" min_lon="-71.9832278" max_lat="43.8254284" max_lon="-71.9448669" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps"/>
+  <tag k="changesets_count" v="103"/>
+  <tag k="resolved:crossing_ways:highway-highway" v="1"/>
+  <tag k="resolved:missing_tag:highway_classification" v="1"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.3"/>
+  <tag k="comment" v="Green Woodlands edits MTB from Dorchester"/>
+</changeset>
+<changeset id="88353810" created_at="2020-07-22T14:05:11Z" open="false" comments_count="0" changes_count="111" closed_at="2020-07-22T14:05:11Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8073510" max_lon="-72.1820140" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="102"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.2"/>
+  <tag k="comment" v="River road houses"/>
+</changeset>
+<changeset id="88353330" created_at="2020-07-22T13:54:26Z" open="false" comments_count="0" changes_count="121" closed_at="2020-07-22T13:54:28Z" min_lat="43.7396315" min_lon="-72.2153680" max_lat="43.7556180" max_lon="-72.1822560" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="101"/>
+  <tag k="imagery_used" v="Bing;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.2"/>
+  <tag k="comment" v="Huntington Hill trails"/>
+</changeset>
+<changeset id="88317547" created_at="2020-07-22T01:58:13Z" open="false" comments_count="0" changes_count="6" closed_at="2020-07-22T01:58:14Z" min_lat="43.6465291" min_lon="-72.0107587" max_lat="43.6469374" max_lon="-72.0095330" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="100"/>
+  <tag k="imagery_used" v="Bing"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.18.2"/>
+  <tag k="comment" v="The Common in Canaan NH"/>
+</changeset>
+<changeset id="88214954" created_at="2020-07-20T00:53:20Z" open="false" comments_count="0" changes_count="6" closed_at="2020-07-20T00:53:20Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8471430" max_lon="-72.1798720" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="99"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="hidden valley river access (formerly boat ramp)"/>
+</changeset>
+<changeset id="88189963" created_at="2020-07-19T03:08:10Z" open="false" comments_count="0" changes_count="74" closed_at="2020-07-19T03:08:11Z" min_lat="43.7420437" min_lon="-72.0550243" max_lat="43.8041998" max_lon="-71.9729347" uid="9376583" user="dhimmel">
+  <tag k="resolved:crossing_ways:highway-highway" v="1"/>
+  <tag k="resolved:close_nodes:detached" v="1"/>
+  <tag k="warnings:crossing_ways:highway-highway" v="1"/>
+  <tag k="changesets_count" v="98"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Green Woodlands Foundation"/>
+</changeset>
+<changeset id="88175542" created_at="2020-07-18T12:44:59Z" open="false" comments_count="0" changes_count="6" closed_at="2020-07-18T12:45:00Z" min_lat="43.4408685" min_lon="-72.1261806" max_lat="43.4585216" max_lon="-72.1145851" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="97"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Coniston Boat Ramp"/>
+</changeset>
+<changeset id="88175415" created_at="2020-07-18T12:39:36Z" open="false" comments_count="0" changes_count="1" closed_at="2020-07-18T12:39:36Z" min_lat="43.4594928" min_lon="-72.1149707" max_lat="43.4608108" max_lon="-72.1140142" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="96"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Cranberry Pond / Bog at Camp Coniston"/>
+</changeset>
+<changeset id="88165162" created_at="2020-07-18T00:55:17Z" open="false" comments_count="0" changes_count="3" closed_at="2020-07-18T00:55:17Z" min_lat="43.4398084" min_lon="-72.1327501" max_lat="43.4551712" max_lon="-72.1160004" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="95"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Camp Coniston trail visibility"/>
+</changeset>
+<changeset id="88164989" created_at="2020-07-18T00:32:40Z" open="false" comments_count="0" changes_count="143" closed_at="2020-07-18T00:32:41Z" min_lat="43.4398084" min_lon="-72.1327501" max_lat="43.4611375" max_lon="-72.1145851" uid="9376583" user="dhimmel">
+  <tag k="warnings:disconnected_way:highway" v="1"/>
+  <tag k="changesets_count" v="94"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Camp Coniston"/>
+</changeset>
+<changeset id="88056711" created_at="2020-07-16T02:53:44Z" open="false" comments_count="0" changes_count="141" closed_at="2020-07-16T02:53:44Z" min_lat="43.5990400" min_lon="-72.2957297" max_lat="43.6332220" max_lon="-72.2594570" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="93"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Farnum Hill Reserve Trails"/>
+</changeset>
+<changeset id="87884580" created_at="2020-07-12T17:35:14Z" open="false" comments_count="0" changes_count="1" closed_at="2020-07-12T17:35:14Z" min_lat="43.7695479" min_lon="-72.2026226" max_lat="43.7764128" max_lon="-72.1941967" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="92"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Hidden Valley Wildlife Conservation"/>
+</changeset>
+<changeset id="87884452" created_at="2020-07-12T17:30:00Z" open="false" comments_count="0" changes_count="28" closed_at="2020-07-12T17:30:01Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8073510" max_lon="-72.1820140" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="91"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="34,36 river road"/>
+</changeset>
+<changeset id="87884363" created_at="2020-07-12T17:26:11Z" open="false" comments_count="0" changes_count="4" closed_at="2020-07-12T17:26:12Z" min_lat="43.7510410" min_lon="-72.2240640" max_lat="43.7510880" max_lon="-72.2228490" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="90"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="delete non-existent road"/>
+</changeset>
+<changeset id="87884336" created_at="2020-07-12T17:25:16Z" open="false" comments_count="0" changes_count="109" closed_at="2020-07-12T17:25:16Z" min_lat="43.7531680" min_lon="-72.2232436" max_lat="43.7552903" max_lon="-72.2196483" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="89"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Purling Brook Drive houses"/>
+</changeset>
+<changeset id="87854376" created_at="2020-07-11T13:48:04Z" open="false" comments_count="0" changes_count="29" closed_at="2020-07-11T13:48:04Z" min_lat="43.7176961" min_lon="-72.2232137" max_lat="43.7195560" max_lon="-72.2191760" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="88"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Pond on dogford"/>
+</changeset>
+<changeset id="87854312" created_at="2020-07-11T13:45:32Z" open="false" comments_count="0" changes_count="12" closed_at="2020-07-11T13:45:33Z" min_lat="43.7098835" min_lon="-72.2385820" max_lat="43.7180233" max_lon="-72.2345905" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="87"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Trescott entrance"/>
+</changeset>
+<changeset id="87854264" created_at="2020-07-11T13:43:46Z" open="false" comments_count="0" changes_count="4" closed_at="2020-07-11T13:43:46Z" min_lat="43.7098835" min_lon="-72.2385820" max_lat="43.7180233" max_lon="-72.2328830" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="86"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Trescott Water Supply Lands Road types"/>
+</changeset>
+<changeset id="87840061" created_at="2020-07-11T00:10:14Z" open="false" comments_count="0" changes_count="6" closed_at="2020-07-11T00:10:15Z" min_lat="43.6927380" min_lon="-72.2574510" max_lat="43.7106840" max_lon="-72.2230170" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="85"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Trescott Water Supply Lands Parking"/>
+</changeset>
+<changeset id="87840027" created_at="2020-07-11T00:06:34Z" open="false" comments_count="0" changes_count="197" closed_at="2020-07-11T00:06:34Z" min_lat="43.7059470" min_lon="-72.2504288" max_lat="43.7397430" max_lon="-72.1906688" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="84"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Trescott Water Supply Lands trails"/>
+</changeset>
+<changeset id="87839719" created_at="2020-07-10T23:32:15Z" open="false" comments_count="0" changes_count="25" closed_at="2020-07-10T23:32:16Z" min_lat="43.7180233" min_lon="-72.2455035" max_lat="43.7248990" max_lon="-72.2307000" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="83"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Trescott Water Supply Lands trail alignment"/>
+</changeset>
+<changeset id="87712886" created_at="2020-07-08T13:08:31Z" open="false" comments_count="0" changes_count="5" closed_at="2020-07-08T13:08:31Z" min_lat="43.7478367" min_lon="-72.1953560" max_lat="43.7523916" max_lon="-72.1895987" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="82"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Huntington Hill trails: access tags"/>
+</changeset>
+<changeset id="87712768" created_at="2020-07-08T13:05:27Z" open="false" comments_count="0" changes_count="77" closed_at="2020-07-08T13:05:27Z" min_lat="43.7419620" min_lon="-72.2071780" max_lat="43.7556180" max_lon="-72.1822560" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="81"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Huntington Hill Hansy's Loop &amp; Allegra Trail"/>
+</changeset>
+<changeset id="87543307" created_at="2020-07-04T23:10:37Z" open="false" comments_count="0" changes_count="260" closed_at="2020-07-04T23:10:37Z" min_lat="43.6736980" min_lon="-72.0498870" max_lat="43.7118380" max_lon="-72.0280380" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="80"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Cardigan Mountain School Mountain Biking Trails"/>
+</changeset>
+<changeset id="87543073" created_at="2020-07-04T22:53:43Z" open="false" comments_count="0" changes_count="1" closed_at="2020-07-04T22:53:43Z" min_lat="43.6722310" min_lon="-72.0316260" max_lat="43.6762290" max_lon="-72.0311480" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="79"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Berry Way Canaan NH rename"/>
+</changeset>
+<changeset id="87542919" created_at="2020-07-04T22:45:25Z" open="false" comments_count="0" changes_count="15" closed_at="2020-07-04T22:45:26Z" min_lat="43.7321040" min_lon="-72.1245751" max_lat="43.7533388" max_lon="-72.0981360" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="78"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Tunis Brook Mill Lot Trail"/>
+</changeset>
+<changeset id="87108760" created_at="2020-06-25T02:02:32Z" open="false" comments_count="0" changes_count="8" closed_at="2020-06-25T02:02:32Z" min_lat="43.6495938" min_lon="-72.3171473" max_lat="43.6512120" max_lon="-72.3155240" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="77"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Lyman Point Park"/>
+</changeset>
+<changeset id="87055264" created_at="2020-06-24T01:24:57Z" open="false" comments_count="0" changes_count="19" closed_at="2020-06-24T01:24:58Z" min_lat="43.8752510" min_lon="-72.3797780" max_lat="43.9154490" max_lon="-72.3328680" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="76"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Old City Falls Trail"/>
+</changeset>
+<changeset id="87055173" created_at="2020-06-24T01:15:46Z" open="false" comments_count="0" changes_count="59" closed_at="2020-06-24T01:15:46Z" min_lat="43.9010460" min_lon="-72.3905450" max_lat="43.9226368" max_lon="-72.3634130" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="75"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Strafford Town Forest Fen Trail"/>
+</changeset>
+<changeset id="86689129" created_at="2020-06-15T22:14:39Z" open="false" comments_count="0" changes_count="13" closed_at="2020-06-15T22:14:40Z" min_lat="43.7489189" min_lon="-72.1945990" max_lat="43.7495511" max_lon="-72.1935340" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="74"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="sam's pond, huntington hill"/>
+</changeset>
+<changeset id="86484974" created_at="2020-06-10T21:46:45Z" open="false" comments_count="0" changes_count="97" closed_at="2020-06-10T21:46:46Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8073510" max_lon="-72.1820140" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="73"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="river road houses"/>
+</changeset>
+<changeset id="86484487" created_at="2020-06-10T21:26:16Z" open="false" comments_count="0" changes_count="77" closed_at="2020-06-10T21:26:17Z" min_lat="43.8103160" min_lon="-72.2333850" max_lat="43.8190450" max_lon="-72.2233887" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="72"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Add Torrey's Trail MTB Thetford Academy"/>
+</changeset>
+<changeset id="86470466" created_at="2020-06-10T15:09:46Z" open="false" comments_count="0" changes_count="64" closed_at="2020-06-10T15:09:46Z" min_lat="43.6907720" min_lon="-72.2826710" max_lat="43.7038556" max_lon="-72.2716245" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="71"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="edits from downtown hanover skinner run"/>
+</changeset>
+<changeset id="86372181" created_at="2020-06-08T21:14:19Z" open="false" comments_count="0" changes_count="23" closed_at="2020-06-08T21:14:19Z" min_lat="43.6823882" min_lon="-72.2766600" max_lat="43.6876322" max_lon="-72.2724118" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="70"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add missing part of Indian ridge trail"/>
+</changeset>
+<changeset id="86254492" created_at="2020-06-05T16:49:55Z" open="false" comments_count="0" changes_count="17" closed_at="2020-06-05T16:49:56Z" min_lat="43.8137530" min_lon="-72.2411387" max_lat="43.8199412" max_lon="-72.2313656" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="69"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="thetford academy trail"/>
+</changeset>
+<changeset id="86253944" created_at="2020-06-05T16:34:41Z" open="false" comments_count="0" changes_count="24" closed_at="2020-06-05T16:34:42Z" min_lat="43.7224371" min_lon="-72.2503463" max_lat="43.7283847" max_lon="-72.2367088" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="68"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file;OpenStreetMap (Standard)"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="trescott water supply lands https://www.hanoverconservancy.org/wp-content/uploads/2019/09/trail-guide-2019map.pdf"/>
+</changeset>
+<changeset id="86253697" created_at="2020-06-05T16:25:22Z" open="false" comments_count="0" changes_count="66" closed_at="2020-06-05T16:25:23Z" min_lat="43.7107690" min_lon="-72.2677670" max_lat="43.7194640" max_lon="-72.2565470" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="67"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="update balch hill trails https://www.hanoverconservancy.org/wp-content/uploads/2019/08/BalchHill-trailmap-update-2019-01-16.pdf"/>
+</changeset>
+<changeset id="86252687" created_at="2020-06-05T15:53:57Z" open="false" comments_count="0" changes_count="10" closed_at="2020-06-05T15:53:58Z" min_lat="43.7170803" min_lon="-72.2510875" max_lat="43.7177282" max_lon="-72.2500008" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="66"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="grasse rd baseball field"/>
+</changeset>
+<changeset id="86146120" created_at="2020-06-03T16:44:19Z" open="false" comments_count="0" changes_count="2" closed_at="2020-06-03T16:44:20Z" min_lat="43.8139969" min_lon="-72.2321943" max_lat="43.8149933" max_lon="-72.2303143" uid="9376583" user="dhimmel">
+  <tag k="resolved:missing_tag:descriptive" v="2"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="65"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="thetford academy building type"/>
+</changeset>
+<changeset id="86145427" created_at="2020-06-03T16:23:58Z" open="false" comments_count="0" changes_count="10" closed_at="2020-06-03T16:23:58Z" min_lat="43.7620574" min_lon="-72.2118236" max_lat="43.7627349" max_lon="-72.2114557" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="64"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="speedway touch-ups"/>
+</changeset>
+<changeset id="86103140" created_at="2020-06-03T01:52:52Z" open="false" comments_count="0" changes_count="93" closed_at="2020-06-03T01:52:53Z" min_lat="43.7617560" min_lon="-72.2158717" max_lat="43.7627488" max_lon="-72.2087800" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="63"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Add bubonic speedway trail"/>
+</changeset>
+<changeset id="86026967" created_at="2020-06-01T03:23:52Z" open="false" comments_count="0" changes_count="8" closed_at="2020-06-01T03:23:52Z" min_lat="43.7767120" min_lon="-72.1829790" max_lat="43.7781360" max_lon="-72.1815050" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="62"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Crossroads fix roads"/>
+</changeset>
+<changeset id="86026938" created_at="2020-06-01T03:21:54Z" open="false" comments_count="0" changes_count="112" closed_at="2020-06-01T03:21:55Z" min_lat="43.7678704" min_lon="-72.1916254" max_lat="43.8072800" max_lon="-72.1630880" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="61"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard);.gpx data file;Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Hoopes' Loop Crossroads Academy"/>
+</changeset>
+<changeset id="86020943" created_at="2020-05-31T20:32:48Z" open="false" comments_count="0" changes_count="58" closed_at="2020-05-31T20:32:49Z" min_lat="43.7356488" min_lon="-72.2542261" max_lat="43.7417029" max_lon="-72.2423790" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="60"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="fullington farm river path"/>
+</changeset>
+<changeset id="85966699" created_at="2020-05-29T21:16:46Z" open="false" comments_count="0" changes_count="8" closed_at="2020-05-29T21:16:47Z" min_lat="43.8026350" min_lon="-72.1466790" max_lat="43.8067200" max_lon="-72.1191800" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="59"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="delete non-existent roads"/>
+</changeset>
+<changeset id="85966654" created_at="2020-05-29T21:14:46Z" open="false" comments_count="0" changes_count="43" closed_at="2020-05-29T21:14:47Z" min_lat="43.7926580" min_lon="-72.1522867" max_lat="43.8223820" max_lon="-72.1031230" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="58"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="grant brook johnson trail Lyme NH"/>
+</changeset>
+<changeset id="85966455" created_at="2020-05-29T21:07:05Z" open="false" comments_count="0" changes_count="29" closed_at="2020-05-29T21:07:05Z" min_lat="43.7707040" min_lon="-72.1594820" max_lat="43.8046660" max_lon="-72.1245320" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="57"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="update alden lane lyme NH"/>
+</changeset>
+<changeset id="85843141" created_at="2020-05-27T16:29:10Z" open="false" comments_count="0" changes_count="12" closed_at="2020-05-27T16:29:10Z" min_lat="43.8067337" min_lon="-72.1623676" max_lat="43.8081261" max_lon="-72.1539930" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="56"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="smooth big rock trail"/>
+</changeset>
+<changeset id="85799376" created_at="2020-05-27T00:43:50Z" open="false" comments_count="0" changes_count="7" closed_at="2020-05-27T00:43:51Z" min_lat="43.8435750" min_lon="-72.1298990" max_lat="43.8464230" max_lon="-72.1273501" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="55"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file;Bing Streetside"/>
+  <tag k="source" v=";streetlevel imagery;streetside"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add whipple hill road driveway"/>
+</changeset>
+<changeset id="85799316" created_at="2020-05-27T00:40:20Z" open="false" comments_count="0" changes_count="29" closed_at="2020-05-27T00:40:21Z" min_lat="43.8062690" min_lon="-72.1630880" max_lat="43.8108317" max_lon="-72.1527970" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="54"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file;Bing Streetside"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="big rock trail lyme nh"/>
+</changeset>
+<changeset id="85798837" created_at="2020-05-27T00:04:42Z" open="false" comments_count="0" changes_count="97" closed_at="2020-05-27T00:04:42Z" min_lat="43.7926580" min_lon="-72.1630880" max_lat="43.8108317" max_lon="-72.1031230" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps;local knowledge"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="53"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file;Bing Streetside"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add big rock trail lyme nh"/>
+</changeset>
+<changeset id="85735281" created_at="2020-05-25T23:11:59Z" open="false" comments_count="0" changes_count="6" closed_at="2020-05-25T23:11:59Z" min_lat="43.8312826" min_lon="-72.1482779" max_lat="43.8313408" max_lon="-72.1482177" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="52"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Chaffee Wildlife Sanctuary Nature Viewing Station"/>
+</changeset>
+<changeset id="85735197" created_at="2020-05-25T23:05:27Z" open="false" comments_count="0" changes_count="55" closed_at="2020-05-25T23:05:28Z" min_lat="43.8156680" min_lon="-72.1565410" max_lat="43.9015310" max_lon="-72.1416640" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="51"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Chaffee Wildlife Sanctuary trails in Lyme, NH"/>
+</changeset>
+<changeset id="85652056" created_at="2020-05-23T12:38:18Z" open="false" comments_count="0" changes_count="18" closed_at="2020-05-23T12:38:19Z" min_lat="43.7027893" min_lon="-72.3029732" max_lat="43.7538864" max_lon="-72.2299749" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="50"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Patchen's Point trail"/>
+</changeset>
+<changeset id="85514771" created_at="2020-05-20T19:01:08Z" open="false" comments_count="0" changes_count="1" closed_at="2020-05-20T19:01:09Z" min_lat="43.7341422" min_lon="-72.2655791" max_lat="43.7341422" max_lon="-72.2655791" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="49"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add patchen's point, norwich, vt"/>
+</changeset>
+<changeset id="85444986" created_at="2020-05-19T13:30:43Z" open="false" comments_count="0" changes_count="5" closed_at="2020-05-19T13:30:43Z" min_lat="43.7604300" min_lon="-72.2228860" max_lat="43.7605910" max_lon="-72.2226910" uid="9376583" user="dhimmel">
+  <tag k="resolved:crossing_ways:building-building" v="2"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="48"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="remove duplicate house"/>
+</changeset>
+<changeset id="85351293" created_at="2020-05-17T23:54:32Z" open="false" comments_count="0" changes_count="1" closed_at="2020-05-17T23:54:32Z" min_lat="43.6459205" min_lon="-72.1651559" max_lat="43.6459205" max_lon="-72.1651559" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="47"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add rope swing on mascoma lake"/>
+</changeset>
+<changeset id="85351230" created_at="2020-05-17T23:50:10Z" open="false" comments_count="0" changes_count="21" closed_at="2020-05-17T23:50:11Z" min_lat="43.6593126" min_lon="-72.0435413" max_lat="43.6759171" max_lon="-72.0266960" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="46"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="cardigan mountain school tweaks"/>
+</changeset>
+<changeset id="85221122" created_at="2020-05-14T19:56:38Z" open="false" comments_count="0" changes_count="92" closed_at="2020-05-14T19:56:39Z" min_lat="43.8144547" min_lon="-72.1480656" max_lat="43.8507175" max_lon="-72.1080960" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps"/>
+  <tag k="changesets_count" v="45"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Lyme MTB observations"/>
+</changeset>
+<changeset id="85220406" created_at="2020-05-14T19:37:05Z" open="false" comments_count="0" changes_count="32" closed_at="2020-05-14T19:37:05Z" min_lat="43.7606101" min_lon="-72.2156830" max_lat="43.7639293" max_lon="-72.2124000" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="44"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add grant road driveways"/>
+</changeset>
+<changeset id="85168570" created_at="2020-05-14T00:34:19Z" open="false" comments_count="0" changes_count="1" closed_at="2020-05-14T00:34:21Z" min_lat="43.8289437" min_lon="-72.1182066" max_lat="43.8289437" max_lon="-72.1182066" uid="9376583" user="dhimmel">
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Add Lyme Pinnacle trailhead parking"/>
+</changeset>
+<changeset id="85168522" created_at="2020-05-14T00:30:55Z" open="false" comments_count="0" changes_count="32" closed_at="2020-05-14T00:30:55Z" min_lat="43.8300270" min_lon="-72.1480324" max_lat="43.8318080" max_lon="-72.1452828" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="42"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Post Pond Lyme Town Beach &amp; Memorial Field"/>
+</changeset>
+<changeset id="85168014" created_at="2020-05-13T23:56:55Z" open="false" comments_count="0" changes_count="66" closed_at="2020-05-13T23:56:55Z" min_lat="43.8106030" min_lon="-72.1706930" max_lat="43.8261090" max_lon="-72.1503450" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="41"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Britton Lane Lyme NH touch-ups"/>
+</changeset>
+<changeset id="85167787" created_at="2020-05-13T23:43:04Z" open="false" comments_count="0" changes_count="49" closed_at="2020-05-13T23:43:05Z" min_lat="43.8184430" min_lon="-72.1356680" max_lat="43.8348250" max_lon="-72.1183050" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="40"/>
+  <tag k="imagery_used" v="Bing aerial imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="The Pinnacle of Lyme NH"/>
+</changeset>
+<changeset id="85154133" created_at="2020-05-13T15:49:02Z" open="false" comments_count="0" changes_count="33" closed_at="2020-05-13T15:49:02Z" min_lat="43.6938264" min_lon="-72.2205329" max_lat="43.6943675" max_lon="-72.2197153" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="39"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add marshall's to the map"/>
+</changeset>
+<changeset id="85043896" created_at="2020-05-11T20:08:01Z" open="false" comments_count="0" changes_count="28" closed_at="2020-05-11T20:08:03Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8471430" max_lon="-72.1798720" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="38"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add hewes brook (partial) in Lyme NH"/>
+</changeset>
+<changeset id="85043684" created_at="2020-05-11T20:01:45Z" open="false" comments_count="0" changes_count="34" closed_at="2020-05-11T20:01:46Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8073510" max_lon="-72.1820140" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="37"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="53 &amp; 56 river road"/>
+</changeset>
+<changeset id="85043548" created_at="2020-05-11T19:57:39Z" open="false" comments_count="0" changes_count="71" closed_at="2020-05-11T19:57:40Z" min_lat="43.7566850" min_lon="-72.2144308" max_lat="43.7596073" max_lon="-72.2096360" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;aerial imagery"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="36"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Heather Lane houses and driveways"/>
+</changeset>
+<changeset id="85037416" created_at="2020-05-11T17:07:08Z" open="false" comments_count="0" changes_count="17" closed_at="2020-05-11T17:07:09Z" min_lat="43.7617560" min_lon="-72.2158717" max_lat="43.7627488" max_lon="-72.2087800" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="35"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="some grant road driveways"/>
+</changeset>
+<changeset id="85037304" created_at="2020-05-11T17:04:31Z" open="false" comments_count="0" changes_count="12" closed_at="2020-05-11T17:04:33Z" min_lat="43.7599585" min_lon="-72.2095120" max_lat="43.7606623" max_lon="-72.2083556" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="34"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add pete's lane driveway"/>
+</changeset>
+<changeset id="85037262" created_at="2020-05-11T17:03:24Z" open="false" comments_count="0" changes_count="76" closed_at="2020-05-11T17:03:25Z" min_lat="43.7581675" min_lon="-72.2098340" max_lat="43.7605773" max_lon="-72.2069115" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;aerial imagery"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="33"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add pete's lane houses and driveways"/>
+</changeset>
+<changeset id="85036840" created_at="2020-05-11T16:52:54Z" open="false" comments_count="0" changes_count="17" closed_at="2020-05-11T16:52:55Z" min_lat="43.7617429" min_lon="-72.2088406" max_lat="43.7626898" max_lon="-72.2064300" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="32"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add 15 Grant Road driveway"/>
+</changeset>
+<changeset id="85036729" created_at="2020-05-11T16:50:09Z" open="false" comments_count="0" changes_count="1" closed_at="2020-05-11T16:50:11Z" min_lat="43.6494139" min_lon="-72.3152087" max_lat="43.8471430" max_lon="-72.1798720" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="31"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Name Connecticut River Area"/>
+</changeset>
+<changeset id="85036409" created_at="2020-05-11T16:43:02Z" open="false" comments_count="0" changes_count="2" closed_at="2020-05-11T16:43:03Z" min_lat="43.8433540" min_lon="-72.1284010" max_lat="43.8779380" max_lon="-72.1141810" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="30"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Update Mud Turtle Pond Road for forest section"/>
+</changeset>
+<changeset id="85034150" created_at="2020-05-11T15:50:14Z" open="false" comments_count="0" changes_count="95" closed_at="2020-05-11T15:50:14Z" min_lat="43.8365670" min_lon="-72.1505970" max_lat="43.8507175" max_lon="-72.1138721" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="29"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Add Northwest Passage MTB trail"/>
+</changeset>
+<changeset id="85032906" created_at="2020-05-11T15:20:59Z" open="false" comments_count="0" changes_count="94" closed_at="2020-05-11T15:21:00Z" min_lat="43.8391710" min_lon="-72.1337184" max_lat="43.8779380" max_lon="-72.1051800" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;gps"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="28"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add Beaver Pond Trail in Lyme Town Forest"/>
+</changeset>
+<changeset id="84714073" created_at="2020-05-05T19:02:22Z" open="false" comments_count="0" changes_count="38" closed_at="2020-05-05T19:02:22Z" min_lat="43.7174020" min_lon="-72.2468440" max_lat="43.7218969" max_lon="-72.2228690" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="27"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add MTB trail near Fletcher Reservoir"/>
+</changeset>
+<changeset id="84713935" created_at="2020-05-05T18:58:57Z" open="false" comments_count="0" changes_count="79" closed_at="2020-05-05T18:58:58Z" min_lat="43.7397340" min_lon="-72.2117400" max_lat="43.7496700" max_lon="-72.2046526" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="26"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add upper slade brook trail from GPS track"/>
+</changeset>
+<changeset id="84710228" created_at="2020-05-05T17:16:56Z" open="false" comments_count="0" changes_count="31" closed_at="2020-05-05T17:16:57Z" min_lat="43.7602149" min_lon="-72.2158717" max_lat="43.7634626" max_lon="-72.2086624" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="25"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add some driveways on grant road"/>
+</changeset>
+<changeset id="84710084" created_at="2020-05-05T17:13:09Z" open="false" comments_count="0" changes_count="12" closed_at="2020-05-05T17:13:10Z" min_lat="43.7623187" min_lon="-72.2124183" max_lat="43.7625636" max_lon="-72.2117644" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="24"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add driveway area for 8 grant road"/>
+</changeset>
+<changeset id="84710009" created_at="2020-05-05T17:11:11Z" open="false" comments_count="0" changes_count="38" closed_at="2020-05-05T17:11:12Z" min_lat="43.7486120" min_lon="-72.2253870" max_lat="43.8073510" max_lon="-72.1820140" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="23"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Lower slade brook houses and trail name"/>
+</changeset>
+<changeset id="84709441" created_at="2020-05-05T16:56:16Z" open="false" comments_count="0" changes_count="60" closed_at="2020-05-05T16:56:17Z" min_lat="43.7600329" min_lon="-72.2156830" max_lat="43.7616972" max_lon="-72.2103672" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="22"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add additional even numbered parcels on Grant Road, Hanover, NH"/>
+</changeset>
+<changeset id="84633237" created_at="2020-05-04T15:37:18Z" open="false" comments_count="0" changes_count="1" closed_at="2020-05-04T15:37:19Z" min_lat="43.7397340" min_lon="-72.2117400" max_lat="43.7496700" max_lon="-72.2099860" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="21"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Rename Class VI highway to Old Spencer Road"/>
+</changeset>
+<changeset id="84442848" created_at="2020-04-30T23:06:31Z" open="false" comments_count="0" changes_count="32" closed_at="2020-04-30T23:06:31Z" min_lat="43.7612428" min_lon="-72.2094063" max_lat="43.7626898" max_lon="-72.2064300" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="20"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="add some odd number houses on Grant Rd https://www.axisgis.com/hanovernh/"/>
+</changeset>
+<changeset id="84442716" created_at="2020-04-30T23:01:46Z" open="false" comments_count="0" changes_count="69" closed_at="2020-04-30T23:01:46Z" min_lat="43.7619780" min_lon="-72.2141663" max_lat="43.7641779" max_lon="-72.2085057" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery;local knowledge"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="19"/>
+  <tag k="imagery_used" v="Bing aerial imagery;Esri World Imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="even numbered houses on Grant Rd, Hanover, NH https://www.axisgis.com/hanovernh/"/>
+</changeset>
+<changeset id="84370407" created_at="2020-04-30T01:20:28Z" open="false" comments_count="0" changes_count="2" closed_at="2020-04-30T01:20:28Z" min_lat="43.7322526" min_lon="-72.2292412" max_lat="43.7387779" max_lon="-72.2142735" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="18"/>
+  <tag k="imagery_used" v="OpenTopoMap"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="update access to POSTED trails"/>
+</changeset>
+<changeset id="84369712" created_at="2020-04-30T00:49:56Z" open="false" comments_count="0" changes_count="1" closed_at="2020-04-30T00:49:56Z" min_lat="43.7324255" min_lon="-72.2393964" max_lat="43.7346644" max_lon="-72.2353384" uid="9376583" user="dhimmel">
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="17"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.3"/>
+  <tag k="comment" v="Update access to POSTED Fullington trail"/>
+</changeset>
+<changeset id="81018724" created_at="2020-02-14T16:49:19Z" open="false" comments_count="0" changes_count="1" closed_at="2020-02-14T16:49:19Z" min_lat="4.5004330" min_lon="-7.9299859" max_lat="4.5007320" max_lon="-7.9295829" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="changesets_count" v="16"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.1"/>
+  <tag k="comment" v="Name Garraway Public School"/>
+</changeset>
+<changeset id="81018549" created_at="2020-02-14T16:44:42Z" open="false" comments_count="0" changes_count="1" closed_at="2020-02-14T16:44:42Z" min_lat="4.5011961" min_lon="-7.9324529" max_lat="4.5013976" max_lon="-7.9322605" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;https://en.wikipedia.org/w/index.php?title=Anna_E._Hall&amp;oldid=874747035;https://www.tlcafrica.com/death_keah_levi.htm"/>
+  <tag k="changesets_count" v="15"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.1"/>
+  <tag k="comment" v="Name Methodist Church in Liberia"/>
+</changeset>
+<changeset id="81018119" created_at="2020-02-14T16:33:13Z" open="false" comments_count="0" changes_count="1" closed_at="2020-02-14T16:33:13Z" min_lat="4.4872841" min_lon="-7.9286100" max_lat="4.4885927" max_lon="-7.9272930" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="changesets_count" v="14"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.17.1"/>
+  <tag k="comment" v="Update Trenh Island off Garraway coast."/>
+</changeset>
+<changeset id="72028623" created_at="2019-07-08T20:05:18Z" open="false" comments_count="0" changes_count="3" closed_at="2019-07-08T20:05:19Z" min_lat="39.9951991" min_lon="-75.2160663" max_lat="39.9969918" max_lon="-75.2107621" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="13"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.15.3"/>
+  <tag k="comment" v="Update Edgely Ultimate Fields in Philly"/>
+</changeset>
+<changeset id="72028338" created_at="2019-07-08T19:54:13Z" open="false" comments_count="0" changes_count="10" closed_at="2019-07-08T19:54:13Z" min_lat="39.9948311" min_lon="-75.2083031" max_lat="39.9962736" max_lon="-75.2062297" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="12"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.15.3"/>
+  <tag k="comment" v="Update Chamounix Playing Fields in Philly"/>
+</changeset>
+<changeset id="69673519" created_at="2019-04-28T19:52:21Z" open="false" comments_count="0" changes_count="100" closed_at="2019-04-28T19:52:25Z" min_lat="39.8687202" min_lon="-75.3138739" max_lat="39.8985780" max_lon="-75.2513213" uid="9376583" user="dhimmel">
+  <tag k="hashtags" v="#running;#cleanplanet"/>
+  <tag k="source" v="gps;local knowledge;aerial imagery"/>
+  <tag k="changesets_count" v="11"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="imagery_used" v="Bing aerial imagery;OpenStreetMap GPS traces"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.14.3"/>
+  <tag k="comment" v="Heinz WIldlife Refuge Missing Paths"/>
+</changeset>
+<changeset id="67886345" created_at="2019-03-07T14:58:12Z" open="false" comments_count="0" changes_count="287" closed_at="2019-03-07T14:58:17Z" min_lat="38.8496347" min_lon="-79.4384698" max_lat="38.9310395" max_lon="-79.3736565" uid="9376583" user="dhimmel">
+  <tag k="source" v="gps"/>
+  <tag k="changesets_count" v="10"/>
+  <tag k="imagery_used" v="Bing aerial imagery;OpenStreetMap GPS traces"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.14.3"/>
+  <tag k="comment" v="Add missing foot path from Dolly Sods hike along ridgeline"/>
+</changeset>
+<changeset id="66809374" created_at="2019-01-31T17:35:33Z" open="false" comments_count="0" changes_count="168" closed_at="2019-01-31T17:35:35Z" min_lat="4.4996471" min_lon="-7.9348852" max_lat="4.5011707" max_lon="-7.9327786" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="9"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="source" v="aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.13.1"/>
+  <tag k="comment" v="Garraway Liberia: move more buildings"/>
+</changeset>
+<changeset id="66784913" created_at="2019-01-30T21:54:23Z" open="false" comments_count="0" changes_count="9" closed_at="2019-01-30T21:54:23Z" min_lat="4.4973023" min_lon="-7.9339731" max_lat="4.4979975" max_lon="-7.9330312" uid="9376583" user="dhimmel">
+  <tag k="source" v="aerial imagery"/>
+  <tag k="ideditor:walkthrough_started" v="yes"/>
+  <tag k="ideditor:walkthrough_progress" v="welcome;navigation;point;startEditing"/>
+  <tag k="changesets_count" v="8"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.13.1"/>
+  <tag k="comment" v="Garraway Liberia: more buildings"/>
+</changeset>
+</osm>

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="OpenStreetMap server" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+<changeset id="107173866" created_at="2021-06-29T23:22:15Z" open="false" comments_count="0" changes_count="410" closed_at="2021-06-29T23:22:16Z" min_lat="43.8237978" min_lon="-72.1202187" max_lat="43.8509475" max_lon="-72.0924386" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="407"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Esri World Imagery (Clarity) Beta;Bing aerial imagery;Esri World Imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Pooh Bear trail &amp; surroundings in Lyme NH"/>
+</changeset>
+<changeset id="107162493" created_at="2021-06-29T17:29:11Z" open="false" comments_count="0" changes_count="4" closed_at="2021-06-29T17:29:12Z" min_lat="43.6451138" min_lon="-72.1687154" max_lat="43.6690462" max_lon="-72.1525919" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="406"/>
+  <tag k="imagery_used" v="Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Moose mountain ridge trial Enfield access"/>
+</changeset>
+<changeset id="107113104" created_at="2021-06-28T22:46:53Z" open="false" comments_count="0" changes_count="24" closed_at="2021-06-28T22:46:54Z" min_lat="43.8021622" min_lon="-72.1839680" max_lat="43.8677051" max_lon="-72.1648919" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="405"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Old river road"/>
+</changeset>
+<changeset id="107055338" created_at="2021-06-28T02:18:34Z" open="false" comments_count="0" changes_count="1" closed_at="2021-06-28T02:18:34Z" min_lat="43.6454200" min_lon="-72.1523438" max_lat="43.6455781" max_lon="-72.1521259" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.axisgis.com/enfieldnh/"/>
+  <tag k="changesets_count" v="404"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="water tank address"/>
+</changeset>
+<changeset id="107055206" created_at="2021-06-28T02:09:23Z" open="false" comments_count="0" changes_count="30" closed_at="2021-06-28T02:09:23Z" min_lat="43.6453804" min_lon="-72.1876143" max_lat="43.6528484" max_lon="-72.1450298" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="403"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="source" v="https://www.strava.com/activities/5540578046"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="enfield power lines"/>
+</changeset>
+<changeset id="107055135" created_at="2021-06-28T02:03:53Z" open="false" comments_count="0" changes_count="314" closed_at="2021-06-28T02:03:55Z" min_lat="43.6425370" min_lon="-72.1885013" max_lat="43.7416830" max_lon="-72.1177218" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5540578046"/>
+  <tag k="changesets_count" v="402"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file;Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );National Agriculture Imagery Program"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Moose Mountain Ridge features"/>
+</changeset>
+<changeset id="107038332" created_at="2021-06-27T14:12:29Z" open="false" comments_count="0" changes_count="186" closed_at="2021-06-27T14:12:30Z" min_lat="43.6557040" min_lon="-72.0880229" max_lat="43.7118380" max_lon="-72.0191910" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="401"/>
+  <tag k="imagery_used" v="Esri World Imagery;Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Canaan Houses, Trails, Driveways"/>
+</changeset>
+<changeset id="107037831" created_at="2021-06-27T13:59:07Z" open="false" comments_count="0" changes_count="2" closed_at="2021-06-27T13:59:08Z" min_lat="43.7132250" min_lon="-72.2003610" max_lat="43.7152890" max_lon="-72.1989500" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="400"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Hanover Center Reservoir Dam: point to way"/>
+</changeset>
+<changeset id="107037708" created_at="2021-06-27T13:55:11Z" open="false" comments_count="0" changes_count="1" closed_at="2021-06-27T13:55:12Z" min_lat="43.7040426" min_lon="-72.2124600" max_lat="43.7057304" max_lon="-72.2112220" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="399"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Etna Cemetery name"/>
+</changeset>
+<changeset id="107037644" created_at="2021-06-27T13:52:37Z" open="false" comments_count="0" changes_count="46" closed_at="2021-06-27T13:52:38Z" min_lat="43.6916220" min_lon="-72.2276452" max_lat="43.7039240" max_lon="-72.2119720" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="398"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Downtown Etna"/>
+</changeset>
+<changeset id="107021636" created_at="2021-06-27T03:50:43Z" open="false" comments_count="0" changes_count="225" closed_at="2021-06-27T03:50:44Z" min_lat="43.6450774" min_lon="-72.2805761" max_lat="43.7970033" max_lon="-72.0716462" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5534007624"/>
+  <tag k="changesets_count" v="397"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );.gpx data file;Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Three Mile / Corey Road trails"/>
+</changeset>
+<changeset id="107006077" created_at="2021-06-26T14:43:14Z" open="false" comments_count="0" changes_count="303" closed_at="2021-06-26T14:43:15Z" min_lat="43.5937860" min_lon="-72.1775996" max_lat="43.6684812" max_lon="-72.1168070" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="396"/>
+  <tag k="resolved:disconnected_way:highway" v="1"/>
+  <tag k="imagery_used" v="Bing aerial imagery;Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lower Shaker WMA trails"/>
+</changeset>
+<changeset id="107004202" created_at="2021-06-26T13:57:57Z" open="false" comments_count="0" changes_count="96" closed_at="2021-06-26T13:57:58Z" min_lat="43.7231340" min_lon="-72.1294726" max_lat="43.7745097" max_lon="-72.0696748" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="395"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Grafton Turnpike track"/>
+</changeset>
+<changeset id="107003208" created_at="2021-06-26T13:33:31Z" open="false" comments_count="0" changes_count="302" closed_at="2021-06-26T13:33:33Z" min_lat="43.7231340" min_lon="-72.1153791" max_lat="43.7966520" max_lon="-72.0490360" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="394"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Grafton Turnpike trails and tracks"/>
+</changeset>
+<changeset id="107002555" created_at="2021-06-26T13:15:46Z" open="false" comments_count="0" changes_count="116" closed_at="2021-06-26T13:15:46Z" min_lat="43.8400000" min_lon="-72.1411541" max_lat="43.8471391" max_lon="-72.1152829" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="393"/>
+  <tag k="imagery_used" v="Bing aerial imagery;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lyme Ponds and Hermit Hill Farm Pond"/>
+</changeset>
+<changeset id="107001815" created_at="2021-06-26T12:54:31Z" open="false" comments_count="0" changes_count="460" closed_at="2021-06-26T12:54:33Z" min_lat="43.8052000" min_lon="-72.1441750" max_lat="43.8509417" max_lon="-72.1080960" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="392"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Bing aerial imagery;Esri World Imagery (Clarity) Beta;Esri World Imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="More Lyme Trails and driveways"/>
+</changeset>
+<changeset id="106976427" created_at="2021-06-25T17:28:43Z" open="false" comments_count="0" changes_count="215" closed_at="2021-06-25T17:28:44Z" min_lat="43.6556478" min_lon="-72.3134957" max_lat="44.6058693" max_lon="-71.5345336" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="391"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Esri World Imagery;National Agriculture Imagery Program;Bing aerial imagery;USGS Topographic Maps"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lyme Hill Trials &amp; Grant Brook"/>
+</changeset>
+<changeset id="106975631" created_at="2021-06-25T17:11:47Z" open="false" comments_count="0" changes_count="81" closed_at="2021-06-25T17:11:48Z" min_lat="43.7808498" min_lon="-72.1873600" max_lat="43.7955280" max_lon="-72.1737077" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="390"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );National Agriculture Imagery Program"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lyme crossroads field and wetland trail"/>
+</changeset>
+<changeset id="106964332" created_at="2021-06-25T13:13:35Z" open="false" comments_count="0" changes_count="352" closed_at="2021-06-25T13:13:36Z" min_lat="43.8094000" min_lon="-72.1839680" max_lat="43.8677051" max_lon="-72.1565941" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="389"/>
+  <tag k="imagery_used" v="Custom (https://proxy.nakarte.me/https/heatmap-external-b.strava.com/tiles-auth/all/blue/{zoom}/{x}/{y}.png?px=256 );Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Post Hill Trails"/>
+</changeset>
+<changeset id="106805521" created_at="2021-06-23T03:14:31Z" open="false" comments_count="0" changes_count="142" closed_at="2021-06-23T03:14:32Z" min_lat="43.8094000" min_lon="-72.1839680" max_lat="43.8677051" max_lon="-72.1648919" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="388"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Driveways in Lyme NH"/>
+</changeset>
+<changeset id="106805334" created_at="2021-06-23T03:06:22Z" open="false" comments_count="0" changes_count="1" closed_at="2021-06-23T03:06:22Z" min_lat="43.8107448" min_lon="-72.1565318" max_lat="43.8124186" max_lon="-72.1543259" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="387"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Old Village Cemetery Lyme name"/>
+</changeset>
+<changeset id="106805010" created_at="2021-06-23T02:50:30Z" open="false" comments_count="0" changes_count="442" closed_at="2021-06-23T02:50:32Z" min_lat="43.7926580" min_lon="-72.1504400" max_lat="43.8227470" max_lon="-72.1031230" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="386"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );National Agriculture Imagery Program;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lyme Pinnacle driveways and trails"/>
+</changeset>
+<changeset id="106688115" created_at="2021-06-21T04:11:21Z" open="false" comments_count="0" changes_count="207" closed_at="2021-06-21T04:11:22Z" min_lat="43.8094000" min_lon="-72.1839680" max_lat="43.9015310" max_lon="-72.1416640" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="385"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Esri World Imagery (Clarity) Beta;National Agriculture Imagery Program"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lower Clay Brook Trial"/>
+</changeset>
+<changeset id="106682768" created_at="2021-06-20T22:39:20Z" open="false" comments_count="0" changes_count="172" closed_at="2021-06-20T22:39:21Z" min_lat="43.8391710" min_lon="-72.1563167" max_lat="43.8588573" max_lon="-72.0925670" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="384"/>
+  <tag k="source" v="https://www.strava.com/activities/5503404820"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta;OpenTopoMap"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lyme Town Forest trail names"/>
+</changeset>
+<changeset id="106651011" created_at="2021-06-20T03:02:49Z" open="false" comments_count="0" changes_count="1" closed_at="2021-06-20T03:02:50Z" min_lat="43.7621483" min_lon="-72.2116197" max_lat="43.7621483" max_lon="-72.2116197" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="383"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="add NH Big Tree tags"/>
+</changeset>
+<changeset id="106630974" created_at="2021-06-19T12:45:49Z" open="false" comments_count="0" changes_count="3" closed_at="2021-06-19T12:45:50Z" min_lat="43.7008410" min_lon="-72.1770740" max_lat="43.7108443" max_lon="-72.1542512" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="382"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Moose Mountain Lodge Road"/>
+</changeset>
+<changeset id="106613027" created_at="2021-06-18T23:56:54Z" open="false" comments_count="0" changes_count="1" closed_at="2021-06-18T23:56:55Z" min_lat="43.7621483" min_lon="-72.2116197" max_lat="43.7621483" max_lon="-72.2116197" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="381"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="add NH Big Tree"/>
+</changeset>
+<changeset id="106612868" created_at="2021-06-18T23:46:40Z" open="false" comments_count="0" changes_count="149" closed_at="2021-06-18T23:46:40Z" min_lat="43.7343261" min_lon="-72.1554060" max_lat="43.7599002" max_lon="-72.1364533" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="380"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard);.gpx data file;Esri World Imagery (Clarity) Beta;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Britton Forest &amp; Mayor-Niles Forest trails"/>
+</changeset>
+<changeset id="106612559" created_at="2021-06-18T23:23:25Z" open="false" comments_count="0" changes_count="194" closed_at="2021-06-18T23:23:26Z" min_lat="43.6450774" min_lon="-72.2805761" max_lat="43.7970033" max_lon="-72.0716462" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.hanoverconservancy.org/wp-content/uploads/2021/01/MooseMtnS-interim-2021-01-14.pdf"/>
+  <tag k="changesets_count" v="379"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Moose Mountains trails &amp; new official names"/>
+</changeset>
+<changeset id="106558939" created_at="2021-06-18T03:13:03Z" open="false" comments_count="0" changes_count="92" closed_at="2021-06-18T03:13:04Z" min_lat="43.7446640" min_lon="-72.1474100" max_lat="43.7745097" max_lon="-72.1132445" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="378"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Goose Pond Road Trails"/>
+</changeset>
+<changeset id="106557730" created_at="2021-06-18T02:15:48Z" open="false" comments_count="0" changes_count="32" closed_at="2021-06-18T02:15:49Z" min_lat="43.7193255" min_lon="-72.1643938" max_lat="43.7408738" max_lon="-72.1524868" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="377"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="moose mountain: connect trails"/>
+</changeset>
+<changeset id="106429083" created_at="2021-06-16T02:16:21Z" open="false" comments_count="0" changes_count="202" closed_at="2021-06-16T02:16:22Z" min_lat="43.7179023" min_lon="-72.1759367" max_lat="43.7551387" max_lon="-72.1382077" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="376"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Iby Road Etna trails &amp; houses"/>
+</changeset>
+<changeset id="106360973" created_at="2021-06-14T23:13:46Z" open="false" comments_count="0" changes_count="146" closed_at="2021-06-14T23:13:47Z" min_lat="43.6969062" min_lon="-72.2805761" max_lat="43.7970033" max_lon="-72.0716462" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="375"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Corey Road and Hanover Center Trails"/>
+</changeset>
+<changeset id="106346962" created_at="2021-06-14T16:00:29Z" open="false" comments_count="0" changes_count="81" closed_at="2021-06-14T16:00:30Z" min_lat="43.6829130" min_lon="-72.3038440" max_lat="43.6913662" max_lon="-72.2985940" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="374"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lebanon NH: Alana Cole &amp; Chambers Park trails"/>
+</changeset>
+<changeset id="106237456" created_at="2021-06-12T02:03:21Z" open="false" comments_count="0" changes_count="6" closed_at="2021-06-12T02:03:22Z" min_lat="43.6411051" min_lon="-72.2558827" max_lat="43.6412405" max_lon="-72.2557464" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="373"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Eastman Automotive building"/>
+</changeset>
+<changeset id="106237403" created_at="2021-06-12T01:56:45Z" open="false" comments_count="0" changes_count="449" closed_at="2021-06-12T01:56:46Z" min_lat="43.6386136" min_lon="-72.2663543" max_lat="43.6482859" max_lon="-72.2556759" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5453946439"/>
+  <tag k="changesets_count" v="372"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="APD Nature Trails, Lebanon"/>
+</changeset>
+<changeset id="106122383" created_at="2021-06-10T02:24:23Z" open="false" comments_count="0" changes_count="2" closed_at="2021-06-10T02:24:24Z" min_lat="43.5114019" min_lon="-72.4019051" max_lat="43.5123054" max_lon="-72.4007389" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="371"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Land Air Express multipolygon"/>
+</changeset>
+<changeset id="106122234" created_at="2021-06-10T02:12:31Z" open="false" comments_count="0" changes_count="37" closed_at="2021-06-10T02:12:32Z" min_lat="43.5112500" min_lon="-72.4030419" max_lat="43.5170498" max_lon="-72.3989987" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="370"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Path of Life Garden toilet tags"/>
+</changeset>
+<changeset id="106117957" created_at="2021-06-09T21:28:58Z" open="false" comments_count="0" changes_count="3" closed_at="2021-06-09T21:28:59Z" min_lat="43.5137425" min_lon="-72.3993389" max_lat="43.5143210" max_lon="-72.3989987" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+  <tag k="created_by" v="Vespucci 15.2.2.0"/>
+  <tag k="comment" v="path of life toilets"/>
+</changeset>
+<changeset id="106117900" created_at="2021-06-09T21:26:22Z" open="false" comments_count="0" changes_count="3" closed_at="2021-06-09T21:26:23Z" min_lat="43.5115174" min_lon="-72.4003898" max_lat="43.5121384" max_lon="-72.4001324" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+  <tag k="created_by" v="Vespucci 15.2.2.0"/>
+  <tag k="comment" v="path of life toilets"/>
+</changeset>
+<changeset id="105936290" created_at="2021-06-07T00:41:50Z" open="false" comments_count="0" changes_count="49" closed_at="2021-06-07T00:41:51Z" min_lat="44.1020731" min_lon="-71.5725247" max_lat="44.1455103" max_lon="-71.5247988" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="367"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="3"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="National Agriculture Imagery Program;Esri World Imagery (Clarity) Beta;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Black Brook alignment"/>
+</changeset>
+<changeset id="105745554" created_at="2021-06-03T00:59:26Z" open="false" comments_count="0" changes_count="15" closed_at="2021-06-03T00:59:27Z" min_lat="43.6918940" min_lon="-72.2904770" max_lat="43.6939435" max_lon="-72.2865990" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="366"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Quinn Trail &amp; Main Street intersection"/>
+</changeset>
+<changeset id="105705335" created_at="2021-06-02T02:52:42Z" open="false" comments_count="0" changes_count="113" closed_at="2021-06-02T02:52:42Z" min_lat="43.7140330" min_lon="-72.2759517" max_lat="43.7186681" max_lon="-72.2674750" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="365"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="2"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Garipay and Girl Brook trails"/>
+</changeset>
+<changeset id="105705029" created_at="2021-06-02T02:33:11Z" open="false" comments_count="0" changes_count="54" closed_at="2021-06-02T02:33:12Z" min_lat="43.6902780" min_lon="-72.2904770" max_lat="43.7415830" max_lon="-72.2264890" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5397423778"/>
+  <tag k="changesets_count" v="364"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Circum Hanover 10-mile tweaks"/>
+</changeset>
+<changeset id="105535556" created_at="2021-05-29T14:04:16Z" open="false" comments_count="0" changes_count="3" closed_at="2021-05-29T14:04:17Z" min_lat="41.7520201" min_lon="-70.0311650" max_lat="41.7628260" max_lon="-70.0110700" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5369336204"/>
+  <tag k="changesets_count" v="363"/>
+  <tag k="resolved:outdated_tags:deprecated_tags" v="1"/>
+  <tag k="resolved:crossing_ways:building-highway" v="1"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Nickerson State Park: trail tags"/>
+</changeset>
+<changeset id="105384000" created_at="2021-05-27T00:28:01Z" open="false" comments_count="0" changes_count="1" closed_at="2021-05-27T00:28:01Z" min_lat="41.8448829" min_lon="-69.9551196" max_lat="41.8452706" max_lon="-69.9537999" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="362"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="remove highway tag from abandoned road. Path does not exist on the ground"/>
+</changeset>
+<changeset id="105383971" created_at="2021-05-27T00:26:11Z" open="false" comments_count="0" changes_count="218" closed_at="2021-05-27T00:26:12Z" min_lat="41.9170283" min_lon="-70.0191050" max_lat="41.9359993" max_lon="-69.9884968" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5357924326"/>
+  <tag k="changesets_count" v="361"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;MassGIS 2019 Orthos"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Clover Trust &amp; CCNSS trails"/>
+</changeset>
+<changeset id="105382513" created_at="2021-05-26T22:44:58Z" open="false" comments_count="0" changes_count="48" closed_at="2021-05-26T22:44:59Z" min_lat="41.9713975" min_lon="-70.0197920" max_lat="41.9841490" max_lon="-70.0030703" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="360"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Poison Ivy laden heathland trails https://www.strava.com/activities/5360698409"/>
+</changeset>
+<changeset id="105290179" created_at="2021-05-25T11:57:34Z" open="false" comments_count="0" changes_count="3" closed_at="2021-05-25T11:57:35Z" min_lat="41.8675361" min_lon="-69.9562908" max_lat="41.8730000" max_lon="-69.9544309" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="359"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="(formerly) Nauset Light Beach Road: remove highway tag that was making this non-existent road appear on rendered maps. Keep demolished:highway tag."/>
+</changeset>
+<changeset id="105290038" created_at="2021-05-25T11:55:28Z" open="false" comments_count="0" changes_count="1" closed_at="2021-05-25T11:55:29Z" min_lat="41.8612464" min_lon="-69.9534164" max_lat="41.8632951" max_lon="-69.9526391" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="358"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="(formerly) Nauset Light Beach Road: remove highway tag that was making this non-existent road appear on rendered maps. Keep demolished:highway tag."/>
+</changeset>
+<changeset id="105289694" created_at="2021-05-25T11:50:29Z" open="false" comments_count="0" changes_count="34" closed_at="2021-05-25T11:50:30Z" min_lat="41.8553024" min_lon="-69.9700459" max_lat="41.8576989" max_lon="-69.9678082" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5352959039"/>
+  <tag k="changesets_count" v="357"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Nauset &amp; Cable Road: remove non-existent connector ways"/>
+</changeset>
+<changeset id="105289144" created_at="2021-05-25T11:43:06Z" open="false" comments_count="0" changes_count="2" closed_at="2021-05-25T11:43:07Z" min_lat="41.8438160" min_lon="-69.9602270" max_lat="41.8443266" max_lon="-69.9587187" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://www.strava.com/activities/5352959039"/>
+  <tag k="changesets_count" v="356"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Cleanup Macpherson Way: remove adjacent way with no on the ground existence"/>
+</changeset>
+<changeset id="105255194" created_at="2021-05-25T01:49:40Z" open="false" comments_count="0" changes_count="368" closed_at="2021-05-25T01:49:41Z" min_lat="41.8441162" min_lon="-69.9832627" max_lat="41.8785512" max_lon="-69.9515528" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge;stravaheatmap"/>
+  <tag k="changesets_count" v="355"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Cape Cod National Seashore trail cleanup, Eastham https://www.strava.com/activities/5352959039"/>
+</changeset>
+<changeset id="105167360" created_at="2021-05-23T14:18:25Z" open="false" comments_count="0" changes_count="78" closed_at="2021-05-23T14:18:26Z" min_lat="41.9752738" min_lon="-70.1806828" max_lat="42.0645879" max_lon="-70.0060533" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="354"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Cape Cod National Seashort Trail tweaks https://www.strava.com/activities/5341854727"/>
+</changeset>
+<changeset id="105032940" created_at="2021-05-20T13:45:37Z" open="false" comments_count="0" changes_count="2" closed_at="2021-05-20T13:45:38Z" min_lat="43.5111289" min_lon="-72.4018306" max_lat="43.5147999" max_lon="-72.3991051" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="353"/>
+  <tag k="imagery_used" v="None"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Great River Outfitters metadata"/>
+</changeset>
+<changeset id="104989078" created_at="2021-05-20T01:19:36Z" open="false" comments_count="0" changes_count="49" closed_at="2021-05-20T01:19:37Z" min_lat="41.9001396" min_lon="-69.9794944" max_lat="41.9126210" max_lon="-69.9665527" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="352"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Cape Cod National Seashore https://www.strava.com/activities/5326306281"/>
+</changeset>
+<changeset id="104918322" created_at="2021-05-18T23:23:57Z" open="false" comments_count="0" changes_count="9" closed_at="2021-05-18T23:23:58Z" min_lat="41.8299338" min_lon="-69.9729764" max_lat="41.8317030" max_lon="-69.9689750" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="351"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Doane Trail and Salt Pond https://www.strava.com/activities/5320387508"/>
+</changeset>
+<changeset id="104753192" created_at="2021-05-16T02:30:48Z" open="false" comments_count="0" changes_count="164" closed_at="2021-05-16T02:30:49Z" min_lat="43.6292851" min_lon="-72.4103928" max_lat="43.6474456" max_lon="-72.3863080" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="350"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Quechee Gorge Trail"/>
+</changeset>
+<changeset id="104603454" created_at="2021-05-13T02:28:47Z" open="false" comments_count="0" changes_count="187" closed_at="2021-05-13T02:28:48Z" min_lat="43.4676100" min_lon="-72.4025786" max_lat="43.5295464" max_lon="-72.3791467" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="349"/>
+  <tag k="imagery_used" v="Esri World Imagery;.gpx data file;USGS Topographic Maps;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Garden of Life streams, solar farm, track roads"/>
+</changeset>
+<changeset id="104016549" created_at="2021-05-03T00:50:21Z" open="false" comments_count="0" changes_count="1" closed_at="2021-05-03T00:50:22Z" min_lat="29.8049028" min_lon="-90.1284806" max_lat="29.8088773" max_lon="-90.1188888" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="348"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Twin Canals Trail"/>
+</changeset>
+<changeset id="104016543" created_at="2021-05-03T00:49:59Z" open="false" comments_count="0" changes_count="11" closed_at="2021-05-03T00:50:00Z" min_lat="29.8047162" min_lon="-90.1287183" max_lat="29.8091970" max_lon="-90.1192816" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="347"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Twin Canals"/>
+</changeset>
+<changeset id="104016468" created_at="2021-05-03T00:46:45Z" open="false" comments_count="0" changes_count="30" closed_at="2021-05-03T00:46:46Z" min_lat="29.7539340" min_lon="-90.1356580" max_lat="29.7953389" max_lon="-90.1005230" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="346"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Lower Kenta Canal"/>
+</changeset>
+<changeset id="104016299" created_at="2021-05-03T00:35:33Z" open="false" comments_count="0" changes_count="1" closed_at="2021-05-03T00:35:33Z" min_lat="29.7837915" min_lon="-90.1156466" max_lat="29.7840943" max_lon="-90.1154464" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="345"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Barataria Visitor Center Address (by Josh)"/>
+</changeset>
+<changeset id="104015924" created_at="2021-05-03T00:11:33Z" open="false" comments_count="0" changes_count="42" closed_at="2021-05-03T00:11:33Z" min_lat="29.7825519" min_lon="-90.1339560" max_lat="29.7956737" max_lon="-90.1154296" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="344"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Barataria Visitor Center Trails"/>
+</changeset>
+<changeset id="103714190" created_at="2021-04-27T14:42:07Z" open="false" comments_count="0" changes_count="202" closed_at="2021-04-27T14:42:08Z" min_lat="43.5129719" min_lon="-72.4004551" max_lat="43.5134815" max_lon="-72.3997636" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="343"/>
+  <tag k="warnings:almost_junction:highway-highway" v="2"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Maze of Adventure paths"/>
+</changeset>
+<changeset id="103664492" created_at="2021-04-26T23:44:58Z" open="false" comments_count="0" changes_count="189" closed_at="2021-04-26T23:44:59Z" min_lat="43.5107895" min_lon="-72.4041680" max_lat="43.5291486" max_lon="-72.3943787" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="342"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Artisan's Park, Windsor VT"/>
+</changeset>
+<changeset id="103596542" created_at="2021-04-26T01:06:17Z" open="false" comments_count="0" changes_count="2" closed_at="2021-04-26T01:06:18Z" min_lat="40.0478641" min_lon="-75.5291916" max_lat="40.0487004" max_lon="-75.5289520" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="341"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="CVT Downeast Access"/>
+</changeset>
+<changeset id="103596454" created_at="2021-04-26T01:01:10Z" open="false" comments_count="0" changes_count="104" closed_at="2021-04-26T01:01:11Z" min_lat="40.0471080" min_lon="-75.5631510" max_lat="40.0573587" max_lon="-75.4874573" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="340"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Chester Valley Trail side trails"/>
+</changeset>
+<changeset id="103302447" created_at="2021-04-21T03:14:28Z" open="false" comments_count="0" changes_count="21" closed_at="2021-04-21T03:14:29Z" min_lat="30.9202635" min_lon="-89.2613134" max_lat="31.0711929" max_lon="-88.9783333" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="339"/>
+  <tag k="imagery_used" v="Mapbox Satellite;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Black creek trail, MS: Big Creek Landing"/>
+</changeset>
+<changeset id="103301987" created_at="2021-04-21T02:56:28Z" open="false" comments_count="0" changes_count="51" closed_at="2021-04-21T02:56:28Z" min_lat="30.9101580" min_lon="-89.0430170" max_lat="30.9284125" max_lon="-88.9586301" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="338"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Extend black creek trail to Fairley Bridge Landing Area"/>
+</changeset>
+<changeset id="103301526" created_at="2021-04-21T02:36:11Z" open="false" comments_count="0" changes_count="214" closed_at="2021-04-21T02:36:12Z" min_lat="30.9102480" min_lon="-89.2540481" max_lat="31.0708232" max_lon="-88.9586301" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="337"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );Esri World Imagery (Clarity) Beta;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Extend black creek trail, MS"/>
+</changeset>
+<changeset id="103158114" created_at="2021-04-19T01:04:05Z" open="false" comments_count="0" changes_count="21" closed_at="2021-04-19T01:04:06Z" min_lat="43.7889423" min_lon="-75.5764285" max_lat="43.7893487" max_lon="-75.5750777" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="336"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Maple Ridge Wind Farm viewing area"/>
+</changeset>
+<changeset id="103146974" created_at="2021-04-18T17:10:00Z" open="false" comments_count="0" changes_count="83" closed_at="2021-04-18T17:10:01Z" min_lat="43.8010653" min_lon="-76.2289580" max_lat="43.8095480" max_lon="-76.1991780" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="335"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Black Pond WMA, Lake Ontario"/>
+</changeset>
+<changeset id="103118283" created_at="2021-04-17T21:22:18Z" open="false" comments_count="0" changes_count="120" closed_at="2021-04-17T21:22:19Z" min_lat="43.6807065" min_lon="-75.2252370" max_lat="43.7272836" max_lon="-75.1054417" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="334"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  );.gpx data file;Esri World Imagery (Clarity) Beta;Esri World Imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Big Otter Lake Area"/>
+</changeset>
+<changeset id="102751855" created_at="2021-04-11T18:42:29Z" open="false" comments_count="0" changes_count="2" closed_at="2021-04-11T18:42:30Z" min_lat="43.5499532" min_lon="-72.1328654" max_lat="43.5573228" max_lon="-72.1236472" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="333"/>
+  <tag k="resolved:outdated_tags:deprecated_tags" v="1"/>
+  <tag k="resolved:close_nodes:detached" v="1"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;USGS Topographic Maps"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Butternut Pond name"/>
+</changeset>
+<changeset id="102742941" created_at="2021-04-11T14:54:31Z" open="false" comments_count="0" changes_count="5" closed_at="2021-04-11T14:54:32Z" min_lat="43.7058837" min_lon="-72.3144727" max_lat="43.7101889" max_lon="-72.3077032" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="332"/>
+  <tag k="warnings:disconnected_way:highway" v="1"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Further Betty Booth Trail modification based on correspondence with the landowner"/>
+</changeset>
+<changeset id="102740028" created_at="2021-04-11T13:47:26Z" open="false" comments_count="0" changes_count="2" closed_at="2021-04-11T13:47:27Z" min_lat="43.7058837" min_lon="-72.3144727" max_lat="43.7101889" max_lon="-72.3077032" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="331"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Betty booth trail: access=private"/>
+</changeset>
+<changeset id="102266048" created_at="2021-04-04T11:09:38Z" open="false" comments_count="0" changes_count="255" closed_at="2021-04-04T11:09:39Z" min_lat="39.9710996" min_lon="-75.1170190" max_lat="39.9793522" max_lon="-75.0982314" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="330"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Graffiti Pier Trails"/>
+</changeset>
+<changeset id="101881699" created_at="2021-03-28T16:46:47Z" open="false" comments_count="0" changes_count="1" closed_at="2021-03-28T16:46:48Z" min_lat="39.8863921" min_lon="-75.0255402" max_lat="39.8866332" max_lon="-75.0252568" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="329"/>
+  <tag k="imagery_used" v="USGS Topographic Maps"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="412 Icehouse land address"/>
+</changeset>
+<changeset id="101881500" created_at="2021-03-28T16:41:47Z" open="false" comments_count="0" changes_count="34" closed_at="2021-03-28T16:41:48Z" min_lat="39.8844834" min_lon="-75.0233052" max_lat="39.8858530" max_lon="-75.0167580" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="328"/>
+  <tag k="imagery_used" v="Mapbox Satellite;National Agriculture Imagery Program;Bing aerial imagery"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Woodstock Dr House Numbers, Cherry Hill"/>
+</changeset>
+<changeset id="101858195" created_at="2021-03-28T00:28:12Z" open="false" comments_count="0" changes_count="77" closed_at="2021-03-28T00:28:13Z" min_lat="39.8767414" min_lon="-75.0296428" max_lat="39.8849301" max_lon="-75.0173465" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="327"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="2"/>
+  <tag k="imagery_used" v="NJ 2015 Aerial Imagery (Natural Color);.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Crow's Woods touch ups and mast"/>
+</changeset>
+<changeset id="101822693" created_at="2021-03-27T00:55:39Z" open="false" comments_count="0" changes_count="163" closed_at="2021-03-27T00:55:40Z" min_lat="39.8767414" min_lon="-75.0324218" max_lat="39.8821351" max_lon="-75.0173465" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="326"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="3"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Crows Woods Trails, Cherry Hill NJ"/>
+</changeset>
+<changeset id="101423783" created_at="2021-03-21T02:03:24Z" open="false" comments_count="0" changes_count="39" closed_at="2021-03-21T02:03:25Z" min_lat="39.6386095" min_lon="-75.5975361" max_lat="39.6799588" max_lon="-75.5423225" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="325"/>
+  <tag k="imagery_used" v="National Agriculture Imagery Program;.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Battery Park Trail &amp; Deemer's Beach"/>
+</changeset>
+<changeset id="100870211" created_at="2021-03-12T01:02:40Z" open="false" comments_count="0" changes_count="7" closed_at="2021-03-12T01:02:41Z" min_lat="41.8610363" min_lon="-69.9983208" max_lat="41.8986601" max_lon="-69.9525621" uid="9376583" user="dhimmel">
+  <tag k="source" v="local knowledge"/>
+  <tag k="changesets_count" v="324"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="Eastham Cape Cod barriers"/>
+</changeset>
+<changeset id="100731783" created_at="2021-03-09T20:17:53Z" open="false" comments_count="0" changes_count="18" closed_at="2021-03-09T20:17:54Z" min_lat="41.8300736" min_lon="-69.9815673" max_lat="41.8351093" max_lon="-69.9773988" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="323"/>
+  <tag k="warnings:disconnected_way:highway" v="1"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}  );.gpx data file;Maxar Standard Imagery (Beta)"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="315 mill rd Depot Pond access trail"/>
+</changeset>
+<changeset id="100651661" created_at="2021-03-08T16:49:57Z" open="false" comments_count="0" changes_count="42" closed_at="2021-03-08T16:49:59Z" min_lat="41.8300736" min_lon="-69.9815673" max_lat="41.8349322" max_lon="-69.9773988" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="322"/>
+  <tag k="warnings:disconnected_way:highway" v="1"/>
+  <tag k="imagery_used" v="MassGIS 2019 Orthos;.gpx data file"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.6"/>
+  <tag k="comment" v="295 Mill Road / Depot Pond"/>
+</changeset>
+<changeset id="100286743" created_at="2021-03-02T14:28:45Z" open="false" comments_count="0" changes_count="2" closed_at="2021-03-02T14:53:44Z" min_lat="39.9742786" min_lon="-75.1818306" max_lat="39.9742987" max_lon="-75.1817922" uid="9376583" user="dhimmel">
+  <tag k="source" v="survey"/>
+  <tag k="StreetComplete:quest_type" v="AddKerbHeight"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="created_by" v="StreetComplete 30.1"/>
+  <tag k="comment" v="Add kerb height info"/>
+</changeset>
+<changeset id="100286715" created_at="2021-03-02T14:28:16Z" open="false" comments_count="0" changes_count="2" closed_at="2021-03-02T14:53:44Z" min_lat="39.9742786" min_lon="-75.1818306" max_lat="39.9742987" max_lon="-75.1817922" uid="9376583" user="dhimmel">
+  <tag k="source" v="survey"/>
+  <tag k="StreetComplete:quest_type" v="AddTactilePavingKerb"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="created_by" v="StreetComplete 30.1"/>
+  <tag k="comment" v="Add tactile paving on kerbs"/>
+</changeset>
+<changeset id="100286398" created_at="2021-03-02T14:22:31Z" open="false" comments_count="0" changes_count="1" closed_at="2021-03-02T14:53:44Z" min_lat="39.9742834" min_lon="-75.1818726" max_lat="39.9742834" max_lon="-75.1818726" uid="9376583" user="dhimmel">
+  <tag k="source" v="survey"/>
+  <tag k="StreetComplete:quest_type" v="AddTactilePavingCrosswalk"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="created_by" v="StreetComplete 30.1"/>
+  <tag k="comment" v="Add tactile pavings on crosswalks"/>
+</changeset>
+<changeset id="100286381" created_at="2021-03-02T14:22:09Z" open="false" comments_count="0" changes_count="1" closed_at="2021-03-02T14:53:44Z" min_lat="39.9739567" min_lon="-75.1818802" max_lat="39.9742987" max_lon="-75.1817922" uid="9376583" user="dhimmel">
+  <tag k="source" v="survey"/>
+  <tag k="StreetComplete:quest_type" v="AddWayLit"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="created_by" v="StreetComplete 30.1"/>
+  <tag k="comment" v="Add whether way is lit"/>
+</changeset>
+<changeset id="100286363" created_at="2021-03-02T14:21:52Z" open="false" comments_count="0" changes_count="1" closed_at="2021-03-02T14:53:43Z" min_lat="39.9739567" min_lon="-75.1818802" max_lat="39.9742987" max_lon="-75.1817922" uid="9376583" user="dhimmel">
+  <tag k="source" v="survey"/>
+  <tag k="StreetComplete:quest_type" v="AddPathSurface"/>
+  <tag k="locale" v="en-US"/>
+  <tag k="created_by" v="StreetComplete 30.1"/>
+  <tag k="comment" v="Add path surfaces"/>
+</changeset>
+<changeset id="100162038" created_at="2021-03-01T01:18:48Z" open="false" comments_count="0" changes_count="10" closed_at="2021-03-01T01:18:48Z" min_lat="40.8839014" min_lon="-75.7689225" max_lat="40.8905036" max_lon="-75.7619297" uid="9376583" user="dhimmel">
+  <tag k="source" v="https://pabucketlist.com/remembering-glen-onoko-falls-near-jim-thorpe-pa/;gps;local knowledge"/>
+  <tag k="changesets_count" v="316"/>
+  <tag k="resolved:crossing_ways:highway-waterway" v="1"/>
+  <tag k="imagery_used" v="USGS Topographic Maps;.gpx data file;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} )"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Glen Onoko Run: use waterfalls not viewpoints"/>
+</changeset>
+<changeset id="100138912" created_at="2021-02-28T14:20:34Z" open="false" comments_count="0" changes_count="3" closed_at="2021-02-28T14:20:35Z" min_lat="40.8870800" min_lon="-75.7619782" max_lat="40.8980521" max_lon="-75.7579255" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="315"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Glen Onoko Hiking Overlooks"/>
+</changeset>
+<changeset id="99655469" created_at="2021-02-20T18:32:14Z" open="false" comments_count="0" changes_count="66" closed_at="2021-02-20T18:32:15Z" min_lat="43.6922029" min_lon="-72.0128171" max_lat="43.6939114" max_lon="-72.0110012" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="314"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="176 Fernwood Farms Rd, Canaan, NH"/>
+</changeset>
+<changeset id="98471423" created_at="2021-02-01T00:30:11Z" open="false" comments_count="0" changes_count="16" closed_at="2021-02-01T00:30:12Z" min_lat="40.2002210" min_lon="-75.6261858" max_lat="40.2329953" max_lon="-75.5838210" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="313"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="3"/>
+  <tag k="source" v="local knowledge;gps"/>
+  <tag k="imagery_used" v="Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );.gpx data file;Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="SRT: Frick's village: mark as actual trail"/>
+</changeset>
+<changeset id="98021291" created_at="2021-01-23T13:56:45Z" open="false" comments_count="0" changes_count="13" closed_at="2021-01-23T13:56:46Z" min_lat="39.9785182" min_lon="-75.1943802" max_lat="39.9800899" max_lon="-75.1917491" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="312"/>
+  <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="The Cliffs in Philly"/>
+</changeset>
+<changeset id="97934338" created_at="2021-01-22T01:55:34Z" open="false" comments_count="0" changes_count="1" closed_at="2021-01-22T01:55:34Z" min_lat="39.9402007" min_lon="-75.2040794" max_lat="39.9432152" max_lon="-75.1979212" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="311"/>
+  <tag k="imagery_used" v="USGS Topographic Maps"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="SRT route: remove gray's ferry crescent side trails"/>
+</changeset>
+<changeset id="97934174" created_at="2021-01-22T01:48:12Z" open="false" comments_count="0" changes_count="116" closed_at="2021-01-22T01:48:13Z" min_lat="40.6122148" min_lon="-76.2315490" max_lat="40.8013551" max_lon="-76.1014276" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="310"/>
+  <tag k="warnings:crossing_ways:highway-waterway" v="3"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard);Esri World Imagery (Clarity) Beta;Custom (https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z} );USGS Topographic Maps"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="SRT: frackville &amp; consolidate rail trail ways"/>
+</changeset>
+<changeset id="97921537" created_at="2021-01-21T18:06:57Z" open="false" comments_count="0" changes_count="1" closed_at="2021-01-21T18:06:57Z" min_lat="39.9353585" min_lon="-75.2077258" max_lat="39.9407021" max_lon="-75.2057771" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="309"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="Bartram's Area SRT relation members"/>
+</changeset>
+<changeset id="97921137" created_at="2021-01-21T17:57:25Z" open="false" comments_count="0" changes_count="1" closed_at="2021-01-21T17:57:25Z" min_lat="40.3909707" min_lon="-75.9754999" max_lat="40.4565405" max_lon="-75.9658232" uid="9376583" user="dhimmel">
+  <tag k="changesets_count" v="308"/>
+  <tag k="source" v="https://schuylkillriver.org/map/"/>
+  <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+  <tag k="locale" v="en"/>
+  <tag k="host" v="https://www.openstreetmap.org/edit"/>
+  <tag k="created_by" v="iD 2.19.5"/>
+  <tag k="comment" v="More SRT relation members"/>
+</changeset>
+</osm>
