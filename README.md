@@ -2,6 +2,8 @@
 
 See [long_trail_changesets.ipynb](long_trail_changesets.ipynb) and https://blog.dhimmel.com/long-trail-maps/.
 
+The [supplements](supplements) directory contains extra files related to the hike and blog post.
+
 # osm-get-user-changeset-metadata
 
 This script will download the changeset metadata from all changesets made by a named OpenStreetMap user.
